@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">source/view/View.js | dom-renderer</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="dom-renderer"><meta property="twitter:description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  <a href="test.html" data-ice="testLink">Test</a>
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/EasyWebApp/DOM-Renderer"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#dom">DOM</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/DOM/CustomInputEvent.js~CustomInputEvent.html">CustomInputEvent</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-watchInput">watchInput</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-indexOf">indexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertTo">insertTo</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-makeNode">makeNode</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-valueOf">valueOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-parseDOM">parseDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-scanDOM">scanDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-stringifyDOM">stringifyDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-walkDOM">walkDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-debounce">debounce</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-delay">delay</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-nextTick">nextTick</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-throttle">throttle</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeMap">attributeMap</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeOnly">attributeOnly</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#object">object</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertableIndexOf">insertableIndexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-likeArray">likeArray</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#view">view</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Model.js~Model.html">Model</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Template.js~Template.html">Template</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/View.js~View.html">View</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/ViewList.js~ViewList.html">ViewList</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">source/view/View.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import Model from &apos;./Model&apos;;
+
+import {
+    parseDOM,
+    scanDOM,
+    stringifyDOM,
+    attributeMap,
+    attributeOnly
+} from &apos;../DOM/parser&apos;;
+
+import Template from &apos;./Template&apos;;
+import ViewList from &apos;./ViewList&apos;;
+
+import { debounce, nextTick } from &apos;../DOM/timer&apos;;
+import { valueOf } from &apos;../DOM/manipulate&apos;;
+import CustomInputEvent, { watchInput } from &apos;../DOM/CustomInputEvent&apos;;
+
+const { findIndex, concat } = Array.prototype;
+
+const view_template = Symbol(&apos;View template&apos;),
+    view_top = new Map(),
+    view_injection = Symbol(&apos;View injection&apos;),
+    view_varible = [&apos;view&apos;, &apos;scope&apos;],
+    top_input = new WeakMap();
+
+export default class View extends Model {
+    /**
+     * @param {String}  template
+     * @param {?Object} scope          - Data of parent View
+     * @param {Object}  [injection={}] - Key for Template varible
+     */
+    constructor(template, scope, injection = {}) {
+        super(scope, &apos;render&apos;);
+
+        (this[view_template] = template + &apos;&apos;),
+        (this[view_injection] = injection);
+
+        view_top.set(this, []);
+
+        Array.from(parseDOM(template).childNodes).forEach(
+            node =&gt; (node.remove(), this.parse(node))
+        );
+    }
+
+    /**
+     * @param {Node} node
+     *
+     * @return {?View}
+     */
+    static instanceOf(node) {
+        do {
+            for (let [view, top] of view_top)
+                if (top.includes(node)) return view;
+        } while ((node = node.parentNode));
+    }
+
+    /**
+     * @type {Node[]}
+     */
+    get topNodes() {
+        return view_top.get(this);
+    }
+
+    /**
+     * @return {String} HTML/XML source code of this View
+     */
+    toString() {
+        return stringifyDOM(this.topNodes).replace(/\s+$/gm, &apos;&apos;);
+    }
+
+    /**
+     * @return {View}
+     */
+    clone() {
+        return new View(this[view_template], this.scope, this[view_injection]);
+    }
+
+    /**
+     * @param {HTMLElement} root
+     *
+     * @return {Number} Index in `childNodes`
+     */
+    static findTemplate({ childNodes }) {
+        const index = findIndex.call(
+            childNodes,
+            ({ nodeName }) =&gt; nodeName.toLowerCase() === &apos;template&apos;
+        );
+
+        return index &gt; -1
+            ? index
+            : findIndex.call(childNodes, ({ nodeType }) =&gt; nodeType === 8);
+    }
+
+    /**
+     * @param {HTMLElement} root
+     *
+     * @return {String}
+     */
+    static getTemplate(root) {
+        const template = root.childNodes[this.findTemplate(root)];
+
+        if (template) return template.innerHTML || template.nodeValue;
+
+        const raw = root.innerHTML;
+
+        return (root.innerHTML = &apos;&apos;) || raw;
+    }
+
+    /**
+     * @protected
+     *
+     * @param {Template|ViewList} template
+     * @param {?Element}          element
+     */
+    addNode(template, element) {
+        if (element instanceof Element) var name = (element.dataset || &apos;&apos;).view;
+
+        this.set(template, { element, name });
+
+        if (template instanceof Template)
+            concat
+                .apply([], view_varible.map(key =&gt; template.keysOf(key)))
+                .forEach(key =&gt; key &amp;&amp; this.watch(key));
+        else
+            this.watch(name, {
+                get: () =&gt;
+                    this.data[name] instanceof Array ? template : template[0]
+            });
+    }
+
+    /**
+     * @param {Element} input
+     *
+     * @listens {Event}            - `change` event
+     * @listens {CustomInputEvent}
+     */
+    listen(input) {
+        const top = this.topNodes.find(
+            node =&gt; node === input || node.compareDocumentPosition(input) &amp; 16
+        );
+
+        var list = top_input.get(top);
+
+        if (!list) {
+            top_input.set(top, (list = []));
+
+            const update = debounce(target =&gt; {
+                if (View.instanceOf(target) === this)
+                    this.commit(target.name, valueOf(target));
+            });
+
+            top.addEventListener(&apos;change&apos;, ({ target }) =&gt; update(target));
+
+            top.addEventListener(
+                &apos;input&apos;,
+                event =&gt;
+                    event instanceof CustomInputEvent &amp;&amp; update(event.target)
+            );
+
+            watchInput(top);
+        }
+
+        if (!list.includes(input)) list.push(input);
+    }
+
+    /**
+     * @type {String[]}
+     */
+    get listenKeys() {
+        return Array.from(
+            new Set(
+                concat.apply(
+                    [],
+                    this.topNodes
+                        .map(node =&gt; {
+                            const list = top_input.get(node);
+
+                            return list &amp;&amp; list.map(input =&gt; input.name);
+                        })
+                        .filter(Boolean)
+                )
+            ).values()
+        );
+    }
+
+    /**
+     * @param {Node} root
+     */
+    parse(root) {
+        if (!root.parentNode) view_top.get(this).push(root);
+
+        const injection = view_varible.concat(
+            Object.keys(this[view_injection])
+        );
+
+        scanDOM(root, Template.Expression, {
+            attribute: ({ ownerElement, name, value }) =&gt; {
+                var onChange;
+
+                name = attributeMap[name] || name;
+
+                if (name in ownerElement &amp;&amp; !(name in attributeOnly)) {
+                    ownerElement.removeAttribute(name);
+
+                    onChange = value =&gt; (ownerElement[name] = value);
+                } else
+                    onChange = value =&gt; ownerElement.setAttribute(name, value);
+
+                this.addNode(
+                    new Template(value, injection, onChange),
+                    ownerElement
+                );
+            },
+            text: node =&gt; {
+                const { parentNode } = node;
+
+                this.addNode(
+                    new Template(
+                        node.nodeValue,
+                        injection,
+                        !parentNode || parentNode.firstElementChild
+                            ? value =&gt; (node.nodeValue = value)
+                            : value =&gt; (parentNode.innerHTML = value)
+                    ),
+                    parentNode
+                );
+            },
+            &apos;[data-view]&apos;: node =&gt; {
+                if ((ViewList.instanceOf(node) || &apos;&apos;).root !== node)
+                    this.addNode(
+                        new ViewList(node, this.data, this[view_injection]),
+                        node
+                    );
+
+                return false;
+            },
+            &apos;input[name], textarea[name], select[name]&apos;: node =&gt; {
+                if (View.instanceOf(node) === this) this.listen(node);
+            }
+        });
+    }
+
+    /**
+     * @type {?Element}
+     */
+    get root() {
+        return this.topNodes[0].parentNode;
+    }
+
+    /**
+     * @param {Object} data
+     *
+     * @emits {CustomEvent} - Cancelable `render`
+     * @emits {CustomEvent} - `rendered`
+     */
+    async render(data) {
+        const { root } = this;
+
+        if (
+            root &amp;&amp;
+            !root.dispatchEvent(
+                new CustomEvent(&apos;render&apos;, {
+                    bubbles: true,
+                    cancelable: true,
+                    detail: { view: this, oldData: this.data, newData: data }
+                })
+            )
+        )
+            return;
+
+        const temp = this.patch(data);
+
+        const injection = [temp, this.scope].concat(
+            Object.values(this[view_injection])
+        );
+
+        this.forEach(({ element }, template) =&gt; {
+            if (template instanceof Template)
+                template.evaluate.apply(template, [element].concat(injection));
+        });
+
+        for (let [view_list, { name }] of this.entries())
+            if (view_list instanceof ViewList) {
+                await nextTick();
+
+                const data = temp[name];
+
+                if (data === null) view_list.clear();
+                else if (data)
+                    await view_list.render(
+                        data instanceof Array ? data : [data]
+                    );
+            }
+
+        if (root)
+            root.dispatchEvent(
+                new CustomEvent(&apos;rendered&apos;, {
+                    bubbles: true,
+                    detail: { view: this, data }
+                })
+            );
+    }
+
+    destroy() {
+        view_top.get(this).forEach(node =&gt; node.remove());
+
+        view_top.delete(this);
+    }
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

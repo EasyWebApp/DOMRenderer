@@ -1,0 +1,87 @@
+{
+  "coverage": "71.25%",
+  "expectCount": 80,
+  "actualCount": 57,
+  "files": {
+    "source/DOM/CustomInputEvent.js": {
+      "expectCount": 4,
+      "actualCount": 3,
+      "undocumentLines": [
+        21
+      ]
+    },
+    "source/DOM/manipulate.js": {
+      "expectCount": 4,
+      "actualCount": 4,
+      "undocumentLines": []
+    },
+    "source/DOM/parser.js": {
+      "expectCount": 9,
+      "actualCount": 6,
+      "undocumentLines": [
+        17,
+        33,
+        37
+      ]
+    },
+    "source/DOM/polyfill.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        5
+      ]
+    },
+    "source/DOM/timer.js": {
+      "expectCount": 4,
+      "actualCount": 4,
+      "undocumentLines": []
+    },
+    "source/object/array.js": {
+      "expectCount": 2,
+      "actualCount": 2,
+      "undocumentLines": []
+    },
+    "source/view/Model.js": {
+      "expectCount": 10,
+      "actualCount": 7,
+      "undocumentLines": [
+        3,
+        7,
+        120
+      ]
+    },
+    "source/view/Template.js": {
+      "expectCount": 13,
+      "actualCount": 7,
+      "undocumentLines": [
+        1,
+        6,
+        24,
+        28,
+        48,
+        128
+      ]
+    },
+    "source/view/View.js": {
+      "expectCount": 17,
+      "actualCount": 13,
+      "undocumentLines": [
+        18,
+        20,
+        26,
+        304
+      ]
+    },
+    "source/view/ViewList.js": {
+      "expectCount": 15,
+      "actualCount": 10,
+      "undocumentLines": [
+        7,
+        12,
+        30,
+        32,
+        55
+      ]
+    }
+  }
+}

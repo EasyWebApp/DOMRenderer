@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">source/DOM/parser.js | dom-renderer</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="dom-renderer"><meta property="twitter:description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  <a href="test.html" data-ice="testLink">Test</a>
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/EasyWebApp/DOM-Renderer"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#dom">DOM</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/DOM/CustomInputEvent.js~CustomInputEvent.html">CustomInputEvent</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-watchInput">watchInput</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-indexOf">indexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertTo">insertTo</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-makeNode">makeNode</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-valueOf">valueOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-parseDOM">parseDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-scanDOM">scanDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-stringifyDOM">stringifyDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-walkDOM">walkDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-debounce">debounce</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-delay">delay</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-nextTick">nextTick</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-throttle">throttle</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeMap">attributeMap</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeOnly">attributeOnly</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#object">object</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertableIndexOf">insertableIndexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-likeArray">likeArray</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#view">view</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Model.js~Model.html">Model</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Template.js~Template.html">Template</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/View.js~View.html">View</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/ViewList.js~ViewList.html">ViewList</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">source/DOM/parser.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">/**
+ * @type {Object}
+ */
+export const attributeMap = {
+    class: &apos;className&apos;,
+    for: &apos;htmlFor&apos;,
+    readonly: &apos;readOnly&apos;
+};
+
+/**
+ * @type {Object}
+ */
+export const attributeOnly = {
+    list: 1
+};
+
+const HTML_page = /&lt;!?(DocType|html|head|body|meta|title|base)[\s\S]*?&gt;/,
+    parser = new DOMParser();
+
+/**
+ * @param {String} markup - HTML/XML source code
+ *
+ * @return {Document|DocumentFragment}
+ */
+export function parseDOM(markup) {
+    return HTML_page.test(markup)
+        ? parser.parseFromString(markup, &apos;text/html&apos;)
+        : Object.assign(document.createElement(&apos;template&apos;), {
+            innerHTML: markup
+        }).content;
+}
+
+const Document_Level = [&apos;#document&apos;, &apos;html&apos;, &apos;head&apos;, &apos;body&apos;],
+    serializer = new XMLSerializer(),
+    documentXML = document.implementation.createDocument(null, &apos;xml&apos;, null);
+
+function stringOf(node) {
+    if (node instanceof HTMLElement)
+        Array.from(
+            node.querySelectorAll(&apos;style:not(:empty), script:not(:empty)&apos;),
+            ({ textContent, firstChild }) =&gt;
+                textContent.trim() &amp;&amp;
+                firstChild.replaceWith(
+                    documentXML.createCDATASection(textContent)
+                )
+        );
+
+    return serializer.serializeToString(node);
+}
+
+/**
+ * @param {Node|Node[]} list
+ *
+ * @return {String} HTML/XML source code
+ */
+export function stringifyDOM(list) {
+    if (list instanceof HTMLElement) return list.outerHTML;
+
+    if (list instanceof Node) {
+        if (Document_Level.includes(list.nodeName.toLowerCase()))
+            return stringOf(list);
+
+        list = [list];
+    }
+
+    const box = document.createElement(&apos;div&apos;);
+
+    box.append.apply(box, Array.from(list, node =&gt; node.cloneNode(true)));
+
+    return box.innerHTML;
+}
+
+/**
+ * @param {Node}                         root
+ * @param {function(node: Node): Number} [filter] - https://developer.mozilla.org/en-US/docs/Web/API/NodeFilter/acceptNode
+ * @param {Boolean}                      [sub]    - Go into Sub DOM
+ *
+ * @yield {Node}
+ */
+export function* walkDOM(root, filter, sub) {
+    var iterator = document.createNodeIterator(root, NodeFilter.SHOW_ALL, {
+            acceptNode:
+                filter instanceof Function
+                    ? filter
+                    : () =&gt; NodeFilter.FILTER_ACCEPT
+        }),
+        node;
+
+    while ((node = iterator.nextNode())) {
+        yield node;
+
+        if (!sub) continue;
+
+        const subDOM = node.content || node.shadowRoot;
+
+        if (subDOM instanceof DocumentFragment)
+            yield* walkDOM(subDOM, filter, sub);
+    }
+}
+
+/**
+ * @param {Node}                                 root
+ * @param {RegExp}                               expression
+ * @param {Object}                               parser
+ * @param {function(attr: Attr): void}           parser.attribute
+ * @param {function(text: Text): void}           parser.text
+ * @param {... function(node: Element): Boolean} parser.element - Key for CSS selector, Value for Callback
+ */
+export function scanDOM(root, expression, { attribute, text, ...element }) {
+    function scanAttr(node) {
+        Array.from(node.attributes).forEach(
+            attr =&gt; expression.test(attr.value) &amp;&amp; attribute(attr)
+        );
+    }
+
+    const iterator = walkDOM(root, node =&gt; {
+        if (node instanceof HTMLElement) {
+            scanAttr(node);
+
+            for (let selector in element)
+                if (node.matches(selector) &amp;&amp; element[selector](node) === false)
+                    return NodeFilter.FILTER_REJECT;
+        }
+
+        return NodeFilter.FILTER_ACCEPT;
+    });
+
+    Array.from(iterator, node =&gt; {
+        switch (node.nodeType) {
+            case 1:
+                scanAttr(node);
+                break;
+            case 3:
+                if (expression.test(node.nodeValue)) text(node);
+        }
+    });
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

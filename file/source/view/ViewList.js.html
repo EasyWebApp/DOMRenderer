@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">source/view/ViewList.js | dom-renderer</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="dom-renderer"><meta property="twitter:description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  <a href="test.html" data-ice="testLink">Test</a>
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/EasyWebApp/DOM-Renderer"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#dom">DOM</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/DOM/CustomInputEvent.js~CustomInputEvent.html">CustomInputEvent</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-watchInput">watchInput</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-indexOf">indexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertTo">insertTo</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-makeNode">makeNode</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-valueOf">valueOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-parseDOM">parseDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-scanDOM">scanDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-stringifyDOM">stringifyDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-walkDOM">walkDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-debounce">debounce</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-delay">delay</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-nextTick">nextTick</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-throttle">throttle</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeMap">attributeMap</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeOnly">attributeOnly</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#object">object</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertableIndexOf">insertableIndexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-likeArray">likeArray</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#view">view</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Model.js~Model.html">Model</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Template.js~Template.html">Template</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/View.js~View.html">View</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/ViewList.js~ViewList.html">ViewList</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">source/view/ViewList.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import View from &apos;./View&apos;;
+
+import { insertableIndexOf } from &apos;../object/array&apos;;
+
+import { insertTo, makeNode } from &apos;../DOM/manipulate&apos;;
+
+const root_list = new WeakMap(),
+    list_root = new WeakMap(),
+    template = Symbol(&apos;View template&apos;),
+    child_offset = Symbol(&apos;Child offset&apos;);
+
+export default class ViewList extends Array {
+    /**
+     * @param {Element}  root
+     * @param {Object}   scope
+     * @param {String[]} injection
+     */
+    constructor(root, scope, injection) {
+        super();
+
+        if (!(root instanceof Element)) return;
+
+        if (root_list.has(root))
+            throw ReferenceError(
+                &apos;One ViewList can only be bound to one Element&apos;
+            );
+
+        root_list.set(root, this), list_root.set(this, root);
+
+        this[template] = [View.getTemplate(root), scope, injection];
+
+        this[child_offset] = View.findTemplate(root) + 1;
+    }
+
+    /**
+     * @param {Node} node
+     *
+     * @return {?ViewList}
+     */
+    static instanceOf(node) {
+        do {
+            const list = root_list.get(node);
+
+            if (list) return list;
+        } while ((node = node.parentNode));
+    }
+
+    /**
+     * @param {Number} [from=0] - View index
+     */
+    clear(from = 0) {
+        this.splice(from, Infinity).forEach(view =&gt; view.destroy());
+    }
+
+    set length(value) {
+        this.clear(value);
+    }
+
+    /**
+     * @type {Element}
+     */
+    get root() {
+        return list_root.get(this);
+    }
+
+    /**
+     * @type {String}
+     */
+    get name() {
+        return this.root.dataset.view;
+    }
+
+    /**
+     * @type {Object}
+     */
+    get data() {
+        return (this[template][1] || &apos;&apos;)[this.name];
+    }
+
+    /**
+     * @return {String} HTML source
+     */
+    toString() {
+        return this.root.outerHTML.replace(/\s+$/gm, &apos;&apos;);
+    }
+
+    /**
+     * @return {Object[]} JSON data
+     */
+    valueOf() {
+        return Array.from(this, view =&gt; view.valueOf());
+    }
+
+    /**
+     * @param {Object}  item
+     * @param {?Number} index
+     *
+     * @return {View}
+     */
+    async insert(item, index) {
+        index = insertableIndexOf(this, index);
+
+        const view = new View(...this[template]),
+            { data } = this;
+
+        this.splice(index, 0, view);
+
+        await view.render(item);
+
+        if (data instanceof Array) data[index] = view.data;
+        else if (data) this[template][1][this.name] = view.data;
+
+        const { topNodes } = view;
+
+        insertTo(
+            this.root,
+            makeNode(topNodes),
+            topNodes.length * index + this[child_offset],
+            true
+        );
+
+        return view;
+    }
+
+    /**
+     * @param {Object[]} list
+     */
+    async render(list) {
+        this.clear(list.length);
+
+        for (let i = 0; list[i]; i++)
+            await (this[i] ? this[i].render(list[i]) : this.insert(list[i], i));
+    }
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

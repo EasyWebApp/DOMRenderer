@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../">
+  <title data-ice="title">Manual | dom-renderer</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="dom-renderer"><meta property="twitter:description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"></head>
+<body class="layout-container manual-root manual-index" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  <a href="test.html" data-ice="testLink">Test</a>
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/EasyWebApp/DOM-Renderer"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div class="manual-toc-root">
+  
+<div data-ice="manual">
+    <ul class="manual-toc">
+      
+    <li data-ice="manualNav" class="indent-h1" data-link="manual/Template.html"><a href="manual/Template.html" data-ice="link">Template syntax</a></li>
+<li data-ice="manualNav" class="indent-h2" data-link="manual/Template.html"><a href="manual/Template.html#typical-example" data-ice="link">Typical example</a></li>
+</ul>
+  </div>
+<div data-ice="manual">
+    <ul class="manual-toc">
+      
+    <li data-ice="manualNav" class="indent-h1" data-link="manual/Render-existed-DOM.html"><a href="manual/Render-existed-DOM.html" data-ice="link">Render existed DOM trees</a></li>
+</ul>
+  </div>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><div class="github-markdown">
+  
+
+  
+
+  <div class="manual-cards">
+    
+  <div class="manual-card-wrap" data-ice="cards">
+      <div class="manual-card">
+        <div data-ice="card"><h1>Template syntax</h1><p>Source code of <strong>DOM-Renderer</strong> templates is legal <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML 5 markups</a> with legal <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">ECMAScript 6 template literals</a> in it.</p><h2>Typical example</h2><pre><code class="lang-HTML"><code class="source-code prettyprint">&lt;template&gt;
+    &lt;h1 hidden=&quot;${! view.name}&quot;&gt;
+        Hello, ${view.name} !
+    &lt;/h1&gt;
+
+    &lt;ul data-view=&quot;profile&quot;&gt;
+        &lt;template&gt;
+            &lt;li title=&quot;${scope.name}&quot;&gt;
+                ${view.URL}
+            &lt;/li&gt;
+            &lt;li&gt;${view.title}&lt;/li&gt;
+        &lt;/template&gt;
+    &lt;/ul&gt;
+
+    &lt;ol data-view=&quot;job&quot;&gt;
+        &lt;template&gt;
+            &lt;li&gt;${view.title}&lt;/li&gt;
+        &lt;/template&gt;
+    &lt;/ol&gt;
+
+    &lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Switch account&quot;&gt;
+&lt;/template&gt;</code>
+</code></pre><table>
+<thead>
+<tr>
+<th style="text-align:center">Code</th>
+<th style="text-align:center">Type</th>
+<th style="text-align:center">Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><code>this</code></td>
+<td style="text-align:center">Local variable</td>
+<td style="text-align:center">The <a href="https://developer.mozilla.org/en-US/docs/Web/API/element">Element</a> which current Template literals located at</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>view</code></td>
+<td style="text-align:center">Local variable</td>
+<td style="text-align:center"><strong>Data object</strong> of the <a href="https://web-cell.dev/DOM-Renderer/class/source/view/View.js~View.html">View</a> which current Template literals located at</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>scope</code></td>
+<td style="text-align:center">Local variable</td>
+<td style="text-align:center">Data object of the parent View which current Template literals located at</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>&quot;${! view.name}&quot;</code></td>
+<td style="text-align:center">Template literal</td>
+<td style="text-align:center">Evaluated value of Template literals supports all kinds of Data types</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>hidden=&quot;${! view.name}&quot;</code></td>
+<td style="text-align:center">HTML attribute</td>
+<td style="text-align:center">HTML Boolean attributes are treated as DOM Properties</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>data-view=&quot;job&quot;</code></td>
+<td style="text-align:center">HTML attribute</td>
+<td style="text-align:center">Attribute value is a key in current View data, Object or Array will map to Sub views</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>&lt;template&gt;...&lt;/template&gt;</code></td>
+<td style="text-align:center">HTML tag</td>
+<td style="text-align:center">A <code>&lt;template /&gt;</code> may map to a View or Sub views, <code>&lt;!-- --&gt;</code> is a Compatibility option</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>&lt;input name=&quot;name&quot;&gt;</code></td>
+<td style="text-align:center">HTML tag</td>
+<td style="text-align:center">The same-name value of Data object will be updated by User&apos;s inputting</td>
+</tr>
+</tbody>
+</table></div>
+        <a data-ice="link" href="manual/Template.html"></a>
+      </div>
+    </div>
+<div class="manual-card-wrap" data-ice="cards">
+      <div class="manual-card">
+        <div data-ice="card"><h1>Render existed DOM trees</h1><p><code>index.html</code></p><pre><code class="lang-html"><code class="source-code prettyprint">&lt;body&gt;
+    &lt;ol&gt;
+        &lt;template&gt;
+            &lt;li&gt;${view.name}&lt;/li&gt;
+            &lt;li&gt;${view.URL}&lt;/li&gt;
+        &lt;/template&gt;
+    &lt;/ol&gt;
+    &lt;ul&gt;
+        &lt;template&gt;
+            &lt;li&gt;${view.name}&lt;/li&gt;
+        &lt;/template&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+        const { ViewList } = self[&apos;dom-renderer&apos;],
+            views = document.body.children;
+
+        const single = new ViewList(views[0]),
+            multiple = new ViewList(views[1]);
+
+        await single.render([
+            {
+                name: &apos;TechQuery&apos;,
+                URL: &apos;https://tech-query.me/&apos;
+            }
+        ]);
+
+        await multiple.render([
+            { name: &apos;freeCodeCamp&apos; },
+            { name: &apos;KaiYuanShe&apos; }
+        ]);
+    &lt;/script&gt;
+&lt;/body&gt;</code>
+</code></pre></div>
+        <a data-ice="link" href="manual/Render-existed-DOM.html"></a>
+      </div>
+    </div>
+</div>
+</div>
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">source/view/Model.js | dom-renderer</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="dom-renderer"><meta property="twitter:description" content="Template engine based on HTML 5, ECMAScript 6 &amp; MVVM"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  <a href="test.html" data-ice="testLink">Test</a>
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/EasyWebApp/DOM-Renderer"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#dom">DOM</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/DOM/CustomInputEvent.js~CustomInputEvent.html">CustomInputEvent</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-watchInput">watchInput</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-indexOf">indexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertTo">insertTo</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-makeNode">makeNode</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-valueOf">valueOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-parseDOM">parseDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-scanDOM">scanDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-stringifyDOM">stringifyDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-walkDOM">walkDOM</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-debounce">debounce</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-delay">delay</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-nextTick">nextTick</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-throttle">throttle</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeMap">attributeMap</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-attributeOnly">attributeOnly</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#object">object</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insertableIndexOf">insertableIndexOf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-likeArray">likeArray</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#view">view</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Model.js~Model.html">Model</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/Template.js~Template.html">Template</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/View.js~View.html">View</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/source/view/ViewList.js~ViewList.html">ViewList</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">source/view/Model.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import { nextTick } from &apos;../DOM/timer&apos;;
+
+const view_data = new WeakMap(),
+    cache_data = Symbol(&apos;Cache data&apos;),
+    next_tick = Symbol(&apos;Next tick&apos;);
+
+export default class Model extends Map {
+    /**
+     * @param {Object}                       parent     - Scope of this Model
+     * @param {function(data: Object): void} [onCommit] - Async updater (Key in `this` is acceptable)
+     */
+    constructor(parent, onCommit) {
+        view_data.set(super(), parent ? Object.setPrototypeOf({}, parent) : {});
+
+        Object.assign(this, {
+            [cache_data]: null,
+            [next_tick]: null,
+            onCommit
+        });
+    }
+
+    /**
+     * @type {Object}
+     */
+    get data() {
+        return view_data.get(this);
+    }
+
+    /**
+     * @type {Object}
+     */
+    get scope() {
+        return Object.getPrototypeOf(view_data.get(this));
+    }
+
+    /**
+     * @return {Object}
+     */
+    valueOf() {
+        const { data } = this,
+            value = {};
+
+        for (let key in data)
+            if (data.hasOwnProperty(key)) {
+                let _data_ = data[key];
+
+                value[key] =
+                    _data_ instanceof Object ? _data_.valueOf() : _data_;
+            }
+
+        return value;
+    }
+
+    /**
+     * @param {String} key          - Property name of `this`
+     * @param {Object} [descriptor] - More configuration of `key`
+     */
+    watch(key, descriptor) {
+        const meta = Object.assign(
+            Object.getOwnPropertyDescriptor(this, key) || {},
+            descriptor
+        );
+
+        (meta.configurable = true), (meta.enumerable = true);
+
+        if (!meta.get)
+            meta.get = function() {
+                return this.data[key];
+            };
+
+        if (!meta.set)
+            meta.set = function(value) {
+                this.commit(key, value);
+            };
+
+        Object.defineProperty(this, key, meta);
+    }
+
+    /**
+     * @param {Object} data
+     *
+     * @return {Object}
+     */
+    patch(data) {
+        const _data_ = this.data,
+            update = Object.setPrototypeOf({}, this.scope);
+
+        Object.assign(_data_, data);
+
+        for (let key in _data_) {
+            if (
+                _data_.hasOwnProperty(key) &amp;&amp;
+                (typeof data[key] === &apos;object&apos; ||
+                    typeof _data_[key] !== &apos;object&apos;)
+            )
+                update[key] = _data_[key];
+        }
+
+        return update;
+    }
+
+    /**
+     * Async update
+     *
+     * @param {String} key
+     * @param {*}      value
+     */
+    async commit(key, value) {
+        if (this[cache_data] === null)
+            (this[cache_data] = {}), (this[next_tick] = nextTick());
+
+        this[cache_data][key] = value;
+
+        await this[next_tick];
+
+        if (this[cache_data] === null) return;
+
+        const data = this[cache_data];
+
+        this[cache_data] = this[next_tick] = null;
+
+        var { onCommit } = this;
+
+        onCommit = onCommit instanceof Function ? onCommit : this[onCommit];
+
+        await onCommit.call(this, data);
+    }
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

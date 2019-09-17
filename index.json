@@ -1,0 +1,3957 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "source/.external-ecmascript.js",
+    "static": true,
+    "longname": "source/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 49,
+    "kind": "external",
+    "name": "CanvasRenderingContext2D",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~CanvasRenderingContext2D",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "external",
+    "name": "DocumentFragment",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~DocumentFragment",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "external",
+    "name": "Element",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/API/Element",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~Element",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "external",
+    "name": "Event",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/API/Event",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~Event",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "external",
+    "name": "Node",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/API/Node",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~Node",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "external",
+    "name": "NodeList",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/API/NodeList",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~NodeList",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "external",
+    "name": "XMLHttpRequest",
+    "externalLink": "https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~XMLHttpRequest",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "external",
+    "name": "AudioContext",
+    "externalLink": "https://developer.mozilla.org/en/docs/Web/API/AudioContext",
+    "memberof": "source/.external-webapi.js",
+    "static": true,
+    "longname": "source/.external-webapi.js~AudioContext",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "source/DOM/CustomInputEvent.js",
+    "content": "/**\n * A composite Input Event with Input Method & Clipboard supported\n */\nexport default class CustomInputEvent extends CustomEvent {\n    /**\n     * @type {HTMLElement}\n     */\n    get target() {\n        const node = super.target;\n\n        if (this.composed) {\n            const root = node.getRootNode();\n\n            if (root instanceof DocumentFragment) return root.host;\n        }\n\n        return node;\n    }\n}\n\nfunction customInput(element, detail) {\n    element.dispatchEvent(\n        new CustomInputEvent('input', {\n            bubbles: true,\n            composed: true,\n            detail\n        })\n    );\n}\n\n/**\n * @param {HTMLElement} element\n *\n * @listens {InputEvent}       - `input` event\n * @listens {CompositionEvent} - `compositionstart` & `compositionend` event\n * @listens {ClipboardEvent}   - `paste` event\n * @listens {ClipboardEvent}   - `cut` event\n *\n * @emits {CustomInputEvent}\n */\nexport function watchInput(element) {\n    var IME, clipBoard;\n\n    element.addEventListener('compositionstart', () => (IME = true));\n\n    element.addEventListener(\n        'compositionend',\n        ({ target, data }) => ((IME = false), customInput(target, data))\n    );\n\n    element.addEventListener('input', event => {\n        if (event instanceof CustomInputEvent) return;\n\n        if (clipBoard) clipBoard = false;\n        else if (!IME) customInput(event.target, event.data);\n    });\n\n    element.addEventListener('paste', ({ target, clipboardData }) => {\n        if (!IME)\n            (clipBoard = true),\n            customInput(target, clipboardData.getData('text'));\n    });\n\n    element.addEventListener('cut', ({ target }) => {\n        if (!IME) (clipBoard = true), customInput(target);\n    });\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/DOM/CustomInputEvent.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "class",
+    "name": "CustomInputEvent",
+    "memberof": "source/DOM/CustomInputEvent.js",
+    "static": true,
+    "longname": "source/DOM/CustomInputEvent.js~CustomInputEvent",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/CustomInputEvent.js",
+    "importStyle": "CustomInputEvent",
+    "description": "A composite Input Event with Input Method & Clipboard supported",
+    "lineNumber": 4,
+    "interface": false,
+    "extends": [
+      "CustomEvent"
+    ]
+  },
+  {
+    "__docId__": 59,
+    "kind": "get",
+    "name": "target",
+    "memberof": "source/DOM/CustomInputEvent.js~CustomInputEvent",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/DOM/CustomInputEvent.js~CustomInputEvent#target",
+    "access": "public",
+    "description": "",
+    "lineNumber": 8,
+    "type": {
+      "nullable": null,
+      "types": [
+        "HTMLElement"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "customInput",
+    "memberof": "source/DOM/CustomInputEvent.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/CustomInputEvent.js~customInput",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/DOM/CustomInputEvent.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "params": [
+      {
+        "name": "element",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "detail",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "watchInput",
+    "memberof": "source/DOM/CustomInputEvent.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/CustomInputEvent.js~watchInput",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/CustomInputEvent.js",
+    "importStyle": "{watchInput}",
+    "description": "",
+    "lineNumber": 41,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "element",
+        "description": ""
+      }
+    ],
+    "emits": [
+      {
+        "types": [
+          "CustomInputEvent"
+        ],
+        "description": ""
+      }
+    ],
+    "listens": [
+      {
+        "types": [
+          "InputEvent"
+        ],
+        "description": "`input` event"
+      },
+      {
+        "types": [
+          "CompositionEvent"
+        ],
+        "description": "`compositionstart` & `compositionend` event"
+      },
+      {
+        "types": [
+          "ClipboardEvent"
+        ],
+        "description": "`paste` event"
+      },
+      {
+        "types": [
+          "ClipboardEvent"
+        ],
+        "description": "`cut` event"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "source/DOM/manipulate.js",
+    "content": "import { insertableIndexOf, likeArray } from '../object/array';\n\nimport { parseDOM } from './parser';\n\n/**\n * @param {Node}    node\n * @param {Boolean} [inNodes] - Seek in all kinds of `Node`\n *\n * @return {Number} The index of `node` in its siblings\n */\nexport function indexOf(node, inNodes) {\n    var key = `previous${inNodes ? '' : 'Element'}Sibling`,\n        index = 0;\n\n    while ((node = node[key])) index++;\n\n    return index;\n}\n\n/**\n * @param {ParentNode}  parent\n * @param {Node|String} child      - https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append#Parameters\n * @param {Number|Node} [position]\n * @param {Boolean}     [inNodes]  - Seek in all kinds of `Node`\n */\nexport function insertTo(parent, child, position, inNodes) {\n    const list = Array.from(parent[`child${inNodes ? 'Nodes' : 'ren'}`]);\n\n    position =\n        position instanceof Node\n            ? indexOf(position, inNodes)\n            : insertableIndexOf(list, position);\n\n    const point = list.slice(position)[0];\n\n    if (point) point.before(child);\n    else parent.append(child);\n}\n\n/**\n * @param {String|Node[]} fragment\n *\n * @return {?DocumentFragment}\n */\nexport function makeNode(fragment) {\n    if (fragment instanceof Node) return fragment;\n\n    if (!likeArray(fragment)) return parseDOM(fragment + '');\n\n    let node = document.createDocumentFragment();\n\n    node.append.apply(\n        node,\n        Array.from(fragment, item =>\n            item.parentNode ? item.cloneNode(true) : item\n        )\n    );\n\n    return node;\n}\n\n/**\n * @param {HTMLElement} input\n *\n * @return {String|String[]}\n */\nexport function valueOf(input) {\n    const { type, value } = input;\n\n    switch (type) {\n        case 'radio':\n        case 'checkbox': {\n            const root = input.form || input.getRootNode();\n\n            const data = Array.from(\n                root.querySelectorAll(\n                    `input[type=\"${type}\"][name=\"${input.name}\"]`\n                ),\n                item => item.checked && item.value\n            ).filter(Boolean);\n\n            return type === 'radio' ? data[0] : data;\n        }\n        case 'select-multiple':\n            return Array.from(\n                input.options,\n                node => node.selected && node.value\n            ).filter(Boolean);\n    }\n\n    return value;\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/DOM/manipulate.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "indexOf",
+    "memberof": "source/DOM/manipulate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/manipulate.js~indexOf",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/manipulate.js",
+    "importStyle": "{indexOf}",
+    "description": "",
+    "lineNumber": 11,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "node",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "inNodes",
+        "description": "Seek in all kinds of `Node`"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "The index of `node` in its siblings"
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "insertTo",
+    "memberof": "source/DOM/manipulate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/manipulate.js~insertTo",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/manipulate.js",
+    "importStyle": "{insertTo}",
+    "description": "",
+    "lineNumber": 26,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "ParentNode"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "parent",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Node",
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "child",
+        "description": "https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append#Parameters"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number",
+          "Node"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "position",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "inNodes",
+        "description": "Seek in all kinds of `Node`"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "makeNode",
+    "memberof": "source/DOM/manipulate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/manipulate.js~makeNode",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/manipulate.js",
+    "importStyle": "{makeNode}",
+    "description": "",
+    "lineNumber": 45,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String",
+          "Node[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fragment",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": true,
+      "types": [
+        "DocumentFragment"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "valueOf",
+    "memberof": "source/DOM/manipulate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/manipulate.js~valueOf",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/manipulate.js",
+    "importStyle": "{valueOf}",
+    "description": "",
+    "lineNumber": 67,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "input",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String",
+        "String[]"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "source/DOM/parser.js",
+    "content": "/**\n * @type {Object}\n */\nexport const attributeMap = {\n    class: 'className',\n    for: 'htmlFor',\n    readonly: 'readOnly'\n};\n\n/**\n * @type {Object}\n */\nexport const attributeOnly = {\n    list: 1\n};\n\nconst HTML_page = /<!?(DocType|html|head|body|meta|title|base)[\\s\\S]*?>/,\n    parser = new DOMParser();\n\n/**\n * @param {String} markup - HTML/XML source code\n *\n * @return {Document|DocumentFragment}\n */\nexport function parseDOM(markup) {\n    return HTML_page.test(markup)\n        ? parser.parseFromString(markup, 'text/html')\n        : Object.assign(document.createElement('template'), {\n            innerHTML: markup\n        }).content;\n}\n\nconst Document_Level = ['#document', 'html', 'head', 'body'],\n    serializer = new XMLSerializer(),\n    documentXML = document.implementation.createDocument(null, 'xml', null);\n\nfunction stringOf(node) {\n    if (node instanceof HTMLElement)\n        Array.from(\n            node.querySelectorAll('style:not(:empty), script:not(:empty)'),\n            ({ textContent, firstChild }) =>\n                textContent.trim() &&\n                firstChild.replaceWith(\n                    documentXML.createCDATASection(textContent)\n                )\n        );\n\n    return serializer.serializeToString(node);\n}\n\n/**\n * @param {Node|Node[]} list\n *\n * @return {String} HTML/XML source code\n */\nexport function stringifyDOM(list) {\n    if (list instanceof HTMLElement) return list.outerHTML;\n\n    if (list instanceof Node) {\n        if (Document_Level.includes(list.nodeName.toLowerCase()))\n            return stringOf(list);\n\n        list = [list];\n    }\n\n    const box = document.createElement('div');\n\n    box.append.apply(box, Array.from(list, node => node.cloneNode(true)));\n\n    return box.innerHTML;\n}\n\n/**\n * @param {Node}                         root\n * @param {function(node: Node): Number} [filter] - https://developer.mozilla.org/en-US/docs/Web/API/NodeFilter/acceptNode\n * @param {Boolean}                      [sub]    - Go into Sub DOM\n *\n * @yield {Node}\n */\nexport function* walkDOM(root, filter, sub) {\n    var iterator = document.createNodeIterator(root, NodeFilter.SHOW_ALL, {\n            acceptNode:\n                filter instanceof Function\n                    ? filter\n                    : () => NodeFilter.FILTER_ACCEPT\n        }),\n        node;\n\n    while ((node = iterator.nextNode())) {\n        yield node;\n\n        if (!sub) continue;\n\n        const subDOM = node.content || node.shadowRoot;\n\n        if (subDOM instanceof DocumentFragment)\n            yield* walkDOM(subDOM, filter, sub);\n    }\n}\n\n/**\n * @param {Node}                                 root\n * @param {RegExp}                               expression\n * @param {Object}                               parser\n * @param {function(attr: Attr): void}           parser.attribute\n * @param {function(text: Text): void}           parser.text\n * @param {... function(node: Element): Boolean} parser.element - Key for CSS selector, Value for Callback\n */\nexport function scanDOM(root, expression, { attribute, text, ...element }) {\n    function scanAttr(node) {\n        Array.from(node.attributes).forEach(\n            attr => expression.test(attr.value) && attribute(attr)\n        );\n    }\n\n    const iterator = walkDOM(root, node => {\n        if (node instanceof HTMLElement) {\n            scanAttr(node);\n\n            for (let selector in element)\n                if (node.matches(selector) && element[selector](node) === false)\n                    return NodeFilter.FILTER_REJECT;\n        }\n\n        return NodeFilter.FILTER_ACCEPT;\n    });\n\n    Array.from(iterator, node => {\n        switch (node.nodeType) {\n            case 1:\n                scanAttr(node);\n                break;\n            case 3:\n                if (expression.test(node.nodeValue)) text(node);\n        }\n    });\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/DOM/parser.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "variable",
+    "name": "attributeMap",
+    "memberof": "source/DOM/parser.js",
+    "static": true,
+    "longname": "source/DOM/parser.js~attributeMap",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": "{attributeMap}",
+    "description": "",
+    "lineNumber": 4,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "variable",
+    "name": "attributeOnly",
+    "memberof": "source/DOM/parser.js",
+    "static": true,
+    "longname": "source/DOM/parser.js~attributeOnly",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": "{attributeOnly}",
+    "description": "",
+    "lineNumber": 13,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "variable",
+    "name": "HTML_page",
+    "memberof": "source/DOM/parser.js",
+    "static": true,
+    "longname": "source/DOM/parser.js~HTML_page",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "parseDOM",
+    "memberof": "source/DOM/parser.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/parser.js~parseDOM",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": "{parseDOM}",
+    "description": "",
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "markup",
+        "description": "HTML/XML source code"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Document",
+        "DocumentFragment"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "variable",
+    "name": "Document_Level",
+    "memberof": "source/DOM/parser.js",
+    "static": true,
+    "longname": "source/DOM/parser.js~Document_Level",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 33,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "stringOf",
+    "memberof": "source/DOM/parser.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/parser.js~stringOf",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "params": [
+      {
+        "name": "node",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "stringifyDOM",
+    "memberof": "source/DOM/parser.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/parser.js~stringifyDOM",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": "{stringifyDOM}",
+    "description": "",
+    "lineNumber": 56,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node",
+          "Node[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "list",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": "HTML/XML source code"
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "walkDOM",
+    "memberof": "source/DOM/parser.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/parser.js~walkDOM",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": "{walkDOM}",
+    "description": "",
+    "lineNumber": 80,
+    "unknown": [
+      {
+        "tagName": "@yield",
+        "tagValue": "{Node}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "root",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(node: Node): Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "filter",
+        "description": "https://developer.mozilla.org/en-US/docs/Web/API/NodeFilter/acceptNode"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "sub",
+        "description": "Go into Sub DOM"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "scanDOM",
+    "memberof": "source/DOM/parser.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/parser.js~scanDOM",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/parser.js",
+    "importStyle": "{scanDOM}",
+    "description": "",
+    "lineNumber": 109,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "root",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "RegExp"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "expression",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "parser",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(attr: Attr): void"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "parser.attribute",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(text: Text): void"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "parser.text",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "... function(node: Element): Boolean"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "parser.element",
+        "description": "Key for CSS selector, Value for Callback"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "source/DOM/polyfill.js",
+    "content": "import { JSDOM } from 'jsdom';\n\nexport default JSDOM;\n\nconst { window } = new JSDOM('', {\n    url: 'http://test.com/',\n    pretendToBeVisual: true\n});\n\n[\n    'self',\n    'document',\n    'Node',\n    'Element',\n    'HTMLElement',\n    'DocumentFragment',\n    'DOMParser',\n    'XMLSerializer',\n    'NodeFilter',\n    'InputEvent',\n    'CustomEvent'\n].forEach(key => (global[key] = window[key]));\n\n/**\n * @private\n *\n * @param {HTMLElement} input\n * @param {String}      raw\n *\n * @emits {InputEvent} `input`\n *\n * @return {Promise}\n */\nexport async function typeIn(input, raw) {\n    for (let data of raw) {\n        input.value += data;\n\n        input.dispatchEvent(\n            new InputEvent('input', {\n                bubbles: true,\n                composed: true,\n                data\n            })\n        );\n\n        await new Promise(resolve => setTimeout(resolve));\n    }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/DOM/polyfill.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "variable",
+    "name": "window",
+    "memberof": "source/DOM/polyfill.js",
+    "static": true,
+    "longname": "source/DOM/polyfill.js~window",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/DOM/polyfill.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "typeIn",
+    "memberof": "source/DOM/polyfill.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "source/DOM/polyfill.js~typeIn",
+    "access": "private",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/polyfill.js",
+    "importStyle": "{typeIn}",
+    "description": "",
+    "lineNumber": 34,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "input",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "raw",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "emits": [
+      {
+        "types": [
+          "InputEvent"
+        ],
+        "description": "`input`"
+      }
+    ],
+    "ignore": true
+  },
+  {
+    "__docId__": 80,
+    "kind": "file",
+    "name": "source/DOM/timer.js",
+    "content": "/**\n * @return {Promise<Number>} https://developer.mozilla.org/en-US/docs/Web/API/DOMHighResTimeStamp\n */\nexport function nextTick() {\n    return new Promise(resolve => self.requestAnimationFrame(resolve));\n}\n\n/**\n * @param {Number} [seconds=0.25]\n *\n * @return {Promise} Wait seconds in Macro tasks\n */\nexport function delay(seconds = 0.25) {\n    return new Promise(resolve => setTimeout(resolve, seconds * 1000));\n}\n\n/**\n * @param {Function} origin\n * @param {Number}   [interval=0.25] - Seconds\n *\n * @return {Function}\n */\nexport function debounce(origin, interval = 0.25) {\n    var timer;\n\n    return function() {\n        clearTimeout(timer);\n\n        timer = setTimeout(\n            origin.bind.apply(origin, [].concat.apply([this], arguments)),\n            interval * 1000\n        );\n    };\n}\n\n/**\n * @param {Function} origin\n * @param {Number}   [interval=0.25] - Seconds\n *\n * @return {Function} Wrapped function with Result cache\n */\nexport function throttle(origin, interval = 0.25) {\n    var lastTime, lastValue;\n\n    return function() {\n        const now = Date.now();\n\n        if (lastTime && lastTime + interval * 1000 > now) return lastValue;\n\n        lastTime = now;\n\n        return (lastValue = origin.apply(this, arguments));\n    };\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/DOM/timer.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 81,
+    "kind": "function",
+    "name": "nextTick",
+    "memberof": "source/DOM/timer.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/timer.js~nextTick",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/timer.js",
+    "importStyle": "{nextTick}",
+    "description": "",
+    "lineNumber": 4,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise<Number>"
+      ],
+      "spread": false,
+      "description": "https://developer.mozilla.org/en-US/docs/Web/API/DOMHighResTimeStamp"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "delay",
+    "memberof": "source/DOM/timer.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/timer.js~delay",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/timer.js",
+    "importStyle": "{delay}",
+    "description": "",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0.25",
+        "defaultRaw": 0.25,
+        "name": "seconds",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise"
+      ],
+      "spread": false,
+      "description": "Wait seconds in Macro tasks"
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "function",
+    "name": "debounce",
+    "memberof": "source/DOM/timer.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/timer.js~debounce",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/timer.js",
+    "importStyle": "{debounce}",
+    "description": "",
+    "lineNumber": 23,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "origin",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0.25",
+        "defaultRaw": 0.25,
+        "name": "interval",
+        "description": "Seconds"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Function"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "throttle",
+    "memberof": "source/DOM/timer.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/DOM/timer.js~throttle",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/DOM/timer.js",
+    "importStyle": "{throttle}",
+    "description": "",
+    "lineNumber": 42,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "origin",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0.25",
+        "defaultRaw": 0.25,
+        "name": "interval",
+        "description": "Seconds"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Function"
+      ],
+      "spread": false,
+      "description": "Wrapped function with Result cache"
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "source/index.js",
+    "content": "export * from './object/array';\n\nexport * from './DOM/parser';\nexport * from './DOM/manipulate';\nexport * from './DOM/CustomInputEvent';\nexport * from './DOM/timer';\n\nexport { default as Template } from './view/Template';\nexport { default as Model } from './view/Model';\nexport { default } from './view/View';\nexport { default as ViewList } from './view/ViewList';\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "source/object/array.js",
+    "content": "/**\n * @param {*} object\n *\n * @return {Boolean}\n */\nexport function likeArray(object) {\n    object = Object(object);\n\n    return (\n        !(object instanceof String) &&\n        !(object instanceof Function) &&\n        !(object instanceof Node) &&\n        (object[Symbol.iterator] instanceof Function ||\n            typeof object.length === 'number')\n    );\n}\n\n/**\n * @param {Node[]} list\n * @param {Number} [index]\n *\n * @return {Number}\n */\nexport function insertableIndexOf(list, index) {\n    return !(index != null) || index > list.length\n        ? list.length\n        : index < 0\n            ? list.length + index\n            : index;\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/object/array.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "function",
+    "name": "likeArray",
+    "memberof": "source/object/array.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/object/array.js~likeArray",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/object/array.js",
+    "importStyle": "{likeArray}",
+    "description": "",
+    "lineNumber": 6,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "object",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "insertableIndexOf",
+    "memberof": "source/object/array.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/object/array.js~insertableIndexOf",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/object/array.js",
+    "importStyle": "{insertableIndexOf}",
+    "description": "",
+    "lineNumber": 24,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "list",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "index",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "source/view/Model.js",
+    "content": "import { nextTick } from '../DOM/timer';\n\nconst view_data = new WeakMap(),\n    cache_data = Symbol('Cache data'),\n    next_tick = Symbol('Next tick');\n\nexport default class Model extends Map {\n    /**\n     * @param {Object}                       parent     - Scope of this Model\n     * @param {function(data: Object): void} [onCommit] - Async updater (Key in `this` is acceptable)\n     */\n    constructor(parent, onCommit) {\n        view_data.set(super(), parent ? Object.setPrototypeOf({}, parent) : {});\n\n        Object.assign(this, {\n            [cache_data]: null,\n            [next_tick]: null,\n            onCommit\n        });\n    }\n\n    /**\n     * @type {Object}\n     */\n    get data() {\n        return view_data.get(this);\n    }\n\n    /**\n     * @type {Object}\n     */\n    get scope() {\n        return Object.getPrototypeOf(view_data.get(this));\n    }\n\n    /**\n     * @return {Object}\n     */\n    valueOf() {\n        const { data } = this,\n            value = {};\n\n        for (let key in data)\n            if (data.hasOwnProperty(key)) {\n                let _data_ = data[key];\n\n                value[key] =\n                    _data_ instanceof Object ? _data_.valueOf() : _data_;\n            }\n\n        return value;\n    }\n\n    /**\n     * @param {String} key          - Property name of `this`\n     * @param {Object} [descriptor] - More configuration of `key`\n     */\n    watch(key, descriptor) {\n        const meta = Object.assign(\n            Object.getOwnPropertyDescriptor(this, key) || {},\n            descriptor\n        );\n\n        (meta.configurable = true), (meta.enumerable = true);\n\n        if (!meta.get)\n            meta.get = function() {\n                return this.data[key];\n            };\n\n        if (!meta.set)\n            meta.set = function(value) {\n                this.commit(key, value);\n            };\n\n        Object.defineProperty(this, key, meta);\n    }\n\n    /**\n     * @param {Object} data\n     *\n     * @return {Object}\n     */\n    patch(data) {\n        const _data_ = this.data,\n            update = Object.setPrototypeOf({}, this.scope);\n\n        Object.assign(_data_, data);\n\n        for (let key in _data_) {\n            if (\n                _data_.hasOwnProperty(key) &&\n                (typeof data[key] === 'object' ||\n                    typeof _data_[key] !== 'object')\n            )\n                update[key] = _data_[key];\n        }\n\n        return update;\n    }\n\n    /**\n     * Async update\n     *\n     * @param {String} key\n     * @param {*}      value\n     */\n    async commit(key, value) {\n        if (this[cache_data] === null)\n            (this[cache_data] = {}), (this[next_tick] = nextTick());\n\n        this[cache_data][key] = value;\n\n        await this[next_tick];\n\n        if (this[cache_data] === null) return;\n\n        const data = this[cache_data];\n\n        this[cache_data] = this[next_tick] = null;\n\n        var { onCommit } = this;\n\n        onCommit = onCommit instanceof Function ? onCommit : this[onCommit];\n\n        await onCommit.call(this, data);\n    }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/view/Model.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "variable",
+    "name": "view_data",
+    "memberof": "source/view/Model.js",
+    "static": true,
+    "longname": "source/view/Model.js~view_data",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/view/Model.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 91,
+    "kind": "class",
+    "name": "Model",
+    "memberof": "source/view/Model.js",
+    "static": true,
+    "longname": "source/view/Model.js~Model",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/view/Model.js",
+    "importStyle": "Model",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "Map"
+    ]
+  },
+  {
+    "__docId__": 92,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Model.js~Model#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "parent",
+        "description": "Scope of this Model"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(data: Object): void"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "onCommit",
+        "description": "Async updater (Key in `this` is acceptable)"
+      }
+    ]
+  },
+  {
+    "__docId__": 93,
+    "kind": "get",
+    "name": "data",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Model.js~Model#data",
+    "access": "public",
+    "description": "",
+    "lineNumber": 25,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "get",
+    "name": "scope",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Model.js~Model#scope",
+    "access": "public",
+    "description": "",
+    "lineNumber": 32,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "method",
+    "name": "valueOf",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Model.js~Model#valueOf",
+    "access": "public",
+    "description": "",
+    "lineNumber": 39,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 96,
+    "kind": "method",
+    "name": "watch",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Model.js~Model#watch",
+    "access": "public",
+    "description": "",
+    "lineNumber": 58,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "Property name of `this`"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "descriptor",
+        "description": "More configuration of `key`"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 97,
+    "kind": "method",
+    "name": "patch",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Model.js~Model#patch",
+    "access": "public",
+    "description": "",
+    "lineNumber": 84,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "method",
+    "name": "commit",
+    "memberof": "source/view/Model.js~Model",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "source/view/Model.js~Model#commit",
+    "access": "public",
+    "description": "Async update",
+    "lineNumber": 108,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 99,
+    "kind": "member",
+    "name": "[cache_data]",
+    "memberof": "source/view/Model.js~Model",
+    "static": false,
+    "longname": "source/view/Model.js~Model#[cache_data]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 120,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "file",
+    "name": "source/view/Template.js",
+    "content": "const template_raw = Symbol('Template raw'),\n    template_scope = Symbol('Template scope'),\n    scope_key = new WeakMap(),\n    template_value = Symbol('Template value');\n\nexport default class Template extends Array {\n    /**\n     * @param {String}                           raw\n     * @param {String[]}                         [scope=[]] - Names of Scoped varibles\n     * @param {function(value: *, old: *): void} onChange\n     */\n    constructor(raw, scope, onChange) {\n        Object.assign(super(), {\n            [template_raw]: raw,\n            [template_scope]: scope || [],\n            onChange: onChange instanceof Function && onChange\n        });\n\n        scope_key.set(this, {});\n\n        this.parse(), this.reset();\n    }\n\n    valueOf() {\n        return this[template_value];\n    }\n\n    toString() {\n        return this[template_value] != null ? this[template_value] + '' : '';\n    }\n\n    /**\n     * @param {String} expression - JavaScript expression\n     *\n     * @return {Function}\n     */\n    evaluatorOf(expression) {\n        return new (Function.bind.apply(\n            Function,\n            [null].concat(this[template_scope], `return (${expression});`)\n        ))();\n    }\n\n    /**\n     * @private\n     */\n    parse() {\n        this[template_raw] = this[template_raw].replace(\n            Template.Expression,\n            (_, expression) => {\n                expression.replace(Template.Reference, (_, scope, key) => {\n                    if (\n                        scope !== 'this' &&\n                        !this[template_scope].includes(scope)\n                    )\n                        return;\n\n                    const map = scope_key.get(this);\n\n                    (map[scope] = map[scope] || []).push(key);\n                });\n\n                return (\n                    '${' + (this.push(this.evaluatorOf(expression)) - 1) + '}'\n                );\n            }\n        );\n    }\n\n    /**\n     * @param {String} scope - Name of a Scoped varible\n     *\n     * @return {String[]} Reference keys\n     */\n    keysOf(scope) {\n        const map = scope_key.get(this);\n\n        return scope ? map[scope] : [].concat.apply([], Object.values(map));\n    }\n\n    /**\n     * @private\n     *\n     * @param {Number}   index\n     * @param {?Object}  context\n     * @param {Object[]} [scope=[]]\n     *\n     * @return {*}\n     */\n    eval(index, context, scope = []) {\n        try {\n            let value = this[index].apply(context, scope);\n\n            if (value != null) {\n                if (Object(value) instanceof String)\n                    try {\n                        value = JSON.parse(value);\n                    } catch (error) {\n                        //\n                    }\n\n                return value;\n            }\n        } catch (error) {\n            if (template_value in this) console.warn(error);\n        }\n\n        return '';\n    }\n\n    /**\n     * @param {?Object}   context - `this` in the expression\n     * @param {...Object} [scope] - Scoped varible objects\n     *\n     * @return {*}\n     */\n    evaluate(context, ...scope) {\n        var value =\n            this[template_raw] !== '${0}'\n                ? this[template_raw].replace(/\\$\\{(\\d+)\\}/g, (_, index) =>\n                    this.eval(index, context, scope)\n                )\n                : this.eval(0, context, scope);\n\n        if (this[template_value] !== value) {\n            if (this.onChange) this.onChange(value, this[template_value]);\n\n            this[template_value] = value;\n        }\n\n        return value;\n    }\n\n    /**\n     * @return {*} {@link Template#evaluate}\n     */\n    reset() {\n        return this.evaluate.apply(\n            this,\n            Array(this[template_scope].length + 1).fill({})\n        );\n    }\n}\n\nTemplate.Expression = /\\$\\{([^}]+)\\}/g;\n\nTemplate.Reference = /(\\w+)(?:\\.|\\[['\"])([^'\"]+)/g;\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/view/Template.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 101,
+    "kind": "variable",
+    "name": "template_raw",
+    "memberof": "source/view/Template.js",
+    "static": true,
+    "longname": "source/view/Template.js~template_raw",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/view/Template.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 102,
+    "kind": "class",
+    "name": "Template",
+    "memberof": "source/view/Template.js",
+    "static": true,
+    "longname": "source/view/Template.js~Template",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/view/Template.js",
+    "importStyle": "Template",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "Array"
+    ]
+  },
+  {
+    "__docId__": 103,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "raw",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "[]",
+        "defaultRaw": [],
+        "name": "scope",
+        "description": "Names of Scoped varibles"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(value: *, old: *): void"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "onChange",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 104,
+    "kind": "method",
+    "name": "valueOf",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#valueOf",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 105,
+    "kind": "method",
+    "name": "toString",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#toString",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "method",
+    "name": "evaluatorOf",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#evaluatorOf",
+    "access": "public",
+    "description": "",
+    "lineNumber": 37,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "expression",
+        "description": "JavaScript expression"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Function"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "method",
+    "name": "parse",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#parse",
+    "access": "private",
+    "description": "",
+    "lineNumber": 47,
+    "ignore": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 108,
+    "kind": "member",
+    "name": "[template_raw]",
+    "memberof": "source/view/Template.js~Template",
+    "static": false,
+    "longname": "source/view/Template.js~Template#[template_raw]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 48,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "method",
+    "name": "keysOf",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#keysOf",
+    "access": "public",
+    "description": "",
+    "lineNumber": 75,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "scope",
+        "description": "Name of a Scoped varible"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String[]"
+      ],
+      "spread": false,
+      "description": "Reference keys"
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "method",
+    "name": "eval",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#eval",
+    "access": "private",
+    "description": "",
+    "lineNumber": 90,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "index",
+        "description": ""
+      },
+      {
+        "nullable": true,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "context",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "[]",
+        "defaultRaw": [],
+        "name": "scope",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 111,
+    "kind": "method",
+    "name": "evaluate",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#evaluate",
+    "access": "public",
+    "description": "",
+    "lineNumber": 117,
+    "params": [
+      {
+        "nullable": true,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "context",
+        "description": "`this` in the expression"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "...Object"
+        ],
+        "spread": true,
+        "optional": true,
+        "name": "scope",
+        "description": "Scoped varible objects"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "member",
+    "name": "[template_value]",
+    "memberof": "source/view/Template.js~Template",
+    "static": false,
+    "longname": "source/view/Template.js~Template#[template_value]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 128,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "method",
+    "name": "reset",
+    "memberof": "source/view/Template.js~Template",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/Template.js~Template#reset",
+    "access": "public",
+    "description": "",
+    "lineNumber": 137,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "{@link Template#evaluate}"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 114,
+    "kind": "file",
+    "name": "source/view/View.js",
+    "content": "import Model from './Model';\n\nimport {\n    parseDOM,\n    scanDOM,\n    stringifyDOM,\n    attributeMap,\n    attributeOnly\n} from '../DOM/parser';\n\nimport Template from './Template';\nimport ViewList from './ViewList';\n\nimport { debounce, nextTick } from '../DOM/timer';\nimport { valueOf } from '../DOM/manipulate';\nimport CustomInputEvent, { watchInput } from '../DOM/CustomInputEvent';\n\nconst { findIndex, concat } = Array.prototype;\n\nconst view_template = Symbol('View template'),\n    view_top = new Map(),\n    view_injection = Symbol('View injection'),\n    view_varible = ['view', 'scope'],\n    top_input = new WeakMap();\n\nexport default class View extends Model {\n    /**\n     * @param {String}  template\n     * @param {?Object} scope          - Data of parent View\n     * @param {Object}  [injection={}] - Key for Template varible\n     */\n    constructor(template, scope, injection = {}) {\n        super(scope, 'render');\n\n        (this[view_template] = template + ''),\n        (this[view_injection] = injection);\n\n        view_top.set(this, []);\n\n        Array.from(parseDOM(template).childNodes).forEach(\n            node => (node.remove(), this.parse(node))\n        );\n    }\n\n    /**\n     * @param {Node} node\n     *\n     * @return {?View}\n     */\n    static instanceOf(node) {\n        do {\n            for (let [view, top] of view_top)\n                if (top.includes(node)) return view;\n        } while ((node = node.parentNode));\n    }\n\n    /**\n     * @type {Node[]}\n     */\n    get topNodes() {\n        return view_top.get(this);\n    }\n\n    /**\n     * @return {String} HTML/XML source code of this View\n     */\n    toString() {\n        return stringifyDOM(this.topNodes).replace(/\\s+$/gm, '');\n    }\n\n    /**\n     * @return {View}\n     */\n    clone() {\n        return new View(this[view_template], this.scope, this[view_injection]);\n    }\n\n    /**\n     * @param {HTMLElement} root\n     *\n     * @return {Number} Index in `childNodes`\n     */\n    static findTemplate({ childNodes }) {\n        const index = findIndex.call(\n            childNodes,\n            ({ nodeName }) => nodeName.toLowerCase() === 'template'\n        );\n\n        return index > -1\n            ? index\n            : findIndex.call(childNodes, ({ nodeType }) => nodeType === 8);\n    }\n\n    /**\n     * @param {HTMLElement} root\n     *\n     * @return {String}\n     */\n    static getTemplate(root) {\n        const template = root.childNodes[this.findTemplate(root)];\n\n        if (template) return template.innerHTML || template.nodeValue;\n\n        const raw = root.innerHTML;\n\n        return (root.innerHTML = '') || raw;\n    }\n\n    /**\n     * @protected\n     *\n     * @param {Template|ViewList} template\n     * @param {?Element}          element\n     */\n    addNode(template, element) {\n        if (element instanceof Element) var name = (element.dataset || '').view;\n\n        this.set(template, { element, name });\n\n        if (template instanceof Template)\n            concat\n                .apply([], view_varible.map(key => template.keysOf(key)))\n                .forEach(key => key && this.watch(key));\n        else\n            this.watch(name, {\n                get: () =>\n                    this.data[name] instanceof Array ? template : template[0]\n            });\n    }\n\n    /**\n     * @param {Element} input\n     *\n     * @listens {Event}            - `change` event\n     * @listens {CustomInputEvent}\n     */\n    listen(input) {\n        const top = this.topNodes.find(\n            node => node === input || node.compareDocumentPosition(input) & 16\n        );\n\n        var list = top_input.get(top);\n\n        if (!list) {\n            top_input.set(top, (list = []));\n\n            const update = debounce(target => {\n                if (View.instanceOf(target) === this)\n                    this.commit(target.name, valueOf(target));\n            });\n\n            top.addEventListener('change', ({ target }) => update(target));\n\n            top.addEventListener(\n                'input',\n                event =>\n                    event instanceof CustomInputEvent && update(event.target)\n            );\n\n            watchInput(top);\n        }\n\n        if (!list.includes(input)) list.push(input);\n    }\n\n    /**\n     * @type {String[]}\n     */\n    get listenKeys() {\n        return Array.from(\n            new Set(\n                concat.apply(\n                    [],\n                    this.topNodes\n                        .map(node => {\n                            const list = top_input.get(node);\n\n                            return list && list.map(input => input.name);\n                        })\n                        .filter(Boolean)\n                )\n            ).values()\n        );\n    }\n\n    /**\n     * @param {Node} root\n     */\n    parse(root) {\n        if (!root.parentNode) view_top.get(this).push(root);\n\n        const injection = view_varible.concat(\n            Object.keys(this[view_injection])\n        );\n\n        scanDOM(root, Template.Expression, {\n            attribute: ({ ownerElement, name, value }) => {\n                var onChange;\n\n                name = attributeMap[name] || name;\n\n                if (name in ownerElement && !(name in attributeOnly)) {\n                    ownerElement.removeAttribute(name);\n\n                    onChange = value => (ownerElement[name] = value);\n                } else\n                    onChange = value => ownerElement.setAttribute(name, value);\n\n                this.addNode(\n                    new Template(value, injection, onChange),\n                    ownerElement\n                );\n            },\n            text: node => {\n                const { parentNode } = node;\n\n                this.addNode(\n                    new Template(\n                        node.nodeValue,\n                        injection,\n                        !parentNode || parentNode.firstElementChild\n                            ? value => (node.nodeValue = value)\n                            : value => (parentNode.innerHTML = value)\n                    ),\n                    parentNode\n                );\n            },\n            '[data-view]': node => {\n                if ((ViewList.instanceOf(node) || '').root !== node)\n                    this.addNode(\n                        new ViewList(node, this.data, this[view_injection]),\n                        node\n                    );\n\n                return false;\n            },\n            'input[name], textarea[name], select[name]': node => {\n                if (View.instanceOf(node) === this) this.listen(node);\n            }\n        });\n    }\n\n    /**\n     * @type {?Element}\n     */\n    get root() {\n        return this.topNodes[0].parentNode;\n    }\n\n    /**\n     * @param {Object} data\n     *\n     * @emits {CustomEvent} - Cancelable `render`\n     * @emits {CustomEvent} - `rendered`\n     */\n    async render(data) {\n        const { root } = this;\n\n        if (\n            root &&\n            !root.dispatchEvent(\n                new CustomEvent('render', {\n                    bubbles: true,\n                    cancelable: true,\n                    detail: { view: this, oldData: this.data, newData: data }\n                })\n            )\n        )\n            return;\n\n        const temp = this.patch(data);\n\n        const injection = [temp, this.scope].concat(\n            Object.values(this[view_injection])\n        );\n\n        this.forEach(({ element }, template) => {\n            if (template instanceof Template)\n                template.evaluate.apply(template, [element].concat(injection));\n        });\n\n        for (let [view_list, { name }] of this.entries())\n            if (view_list instanceof ViewList) {\n                await nextTick();\n\n                const data = temp[name];\n\n                if (data === null) view_list.clear();\n                else if (data)\n                    await view_list.render(\n                        data instanceof Array ? data : [data]\n                    );\n            }\n\n        if (root)\n            root.dispatchEvent(\n                new CustomEvent('rendered', {\n                    bubbles: true,\n                    detail: { view: this, data }\n                })\n            );\n    }\n\n    destroy() {\n        view_top.get(this).forEach(node => node.remove());\n\n        view_top.delete(this);\n    }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/view/View.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 115,
+    "kind": "variable",
+    "name": "findIndex",
+    "memberof": "source/view/View.js",
+    "static": true,
+    "longname": "source/view/View.js~findIndex",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/view/View.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 116,
+    "kind": "variable",
+    "name": "view_template",
+    "memberof": "source/view/View.js",
+    "static": true,
+    "longname": "source/view/View.js~view_template",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/view/View.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 117,
+    "kind": "class",
+    "name": "View",
+    "memberof": "source/view/View.js",
+    "static": true,
+    "longname": "source/view/View.js~View",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/view/View.js",
+    "importStyle": "View",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "source/view/Model.js~Model"
+    ]
+  },
+  {
+    "__docId__": 118,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 32,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "template",
+        "description": ""
+      },
+      {
+        "nullable": true,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "scope",
+        "description": "Data of parent View"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "{}",
+        "defaultRaw": {},
+        "name": "injection",
+        "description": "Key for Template varible"
+      }
+    ]
+  },
+  {
+    "__docId__": 119,
+    "kind": "method",
+    "name": "instanceOf",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/view/View.js~View.instanceOf",
+    "access": "public",
+    "description": "",
+    "lineNumber": 50,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "node",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": true,
+      "types": [
+        "View"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 120,
+    "kind": "get",
+    "name": "topNodes",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#topNodes",
+    "access": "public",
+    "description": "",
+    "lineNumber": 60,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Node[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 121,
+    "kind": "method",
+    "name": "toString",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#toString",
+    "access": "public",
+    "description": "",
+    "lineNumber": 67,
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": "HTML/XML source code of this View"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 122,
+    "kind": "method",
+    "name": "clone",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#clone",
+    "access": "public",
+    "description": "",
+    "lineNumber": 74,
+    "return": {
+      "nullable": null,
+      "types": [
+        "View"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 123,
+    "kind": "method",
+    "name": "findTemplate",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/view/View.js~View.findTemplate",
+    "access": "public",
+    "description": "",
+    "lineNumber": 83,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "root",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "Index in `childNodes`"
+    }
+  },
+  {
+    "__docId__": 124,
+    "kind": "method",
+    "name": "getTemplate",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/view/View.js~View.getTemplate",
+    "access": "public",
+    "description": "",
+    "lineNumber": 99,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "root",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "method",
+    "name": "addNode",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#addNode",
+    "access": "protected",
+    "description": "",
+    "lineNumber": 115,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Template",
+          "ViewList"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "template",
+        "description": ""
+      },
+      {
+        "nullable": true,
+        "types": [
+          "Element"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "element",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 126,
+    "kind": "method",
+    "name": "listen",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#listen",
+    "access": "public",
+    "description": "",
+    "lineNumber": 137,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Element"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "input",
+        "description": ""
+      }
+    ],
+    "listens": [
+      {
+        "types": [
+          "Event"
+        ],
+        "description": "`change` event"
+      },
+      {
+        "types": [
+          "CustomInputEvent"
+        ],
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 127,
+    "kind": "get",
+    "name": "listenKeys",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#listenKeys",
+    "access": "public",
+    "description": "",
+    "lineNumber": 169,
+    "type": {
+      "nullable": null,
+      "types": [
+        "String[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "method",
+    "name": "parse",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#parse",
+    "access": "public",
+    "description": "",
+    "lineNumber": 189,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "root",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 129,
+    "kind": "get",
+    "name": "root",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#root",
+    "access": "public",
+    "description": "",
+    "lineNumber": 246,
+    "type": {
+      "nullable": true,
+      "types": [
+        "Element"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 130,
+    "kind": "method",
+    "name": "render",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "source/view/View.js~View#render",
+    "access": "public",
+    "description": "",
+    "lineNumber": 256,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": ""
+      }
+    ],
+    "emits": [
+      {
+        "types": [
+          "CustomEvent"
+        ],
+        "description": "Cancelable `render`"
+      },
+      {
+        "types": [
+          "CustomEvent"
+        ],
+        "description": "`rendered`"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 131,
+    "kind": "method",
+    "name": "destroy",
+    "memberof": "source/view/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/View.js~View#destroy",
+    "access": "public",
+    "description": null,
+    "lineNumber": 304,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 132,
+    "kind": "file",
+    "name": "source/view/ViewList.js",
+    "content": "import View from './View';\n\nimport { insertableIndexOf } from '../object/array';\n\nimport { insertTo, makeNode } from '../DOM/manipulate';\n\nconst root_list = new WeakMap(),\n    list_root = new WeakMap(),\n    template = Symbol('View template'),\n    child_offset = Symbol('Child offset');\n\nexport default class ViewList extends Array {\n    /**\n     * @param {Element}  root\n     * @param {Object}   scope\n     * @param {String[]} injection\n     */\n    constructor(root, scope, injection) {\n        super();\n\n        if (!(root instanceof Element)) return;\n\n        if (root_list.has(root))\n            throw ReferenceError(\n                'One ViewList can only be bound to one Element'\n            );\n\n        root_list.set(root, this), list_root.set(this, root);\n\n        this[template] = [View.getTemplate(root), scope, injection];\n\n        this[child_offset] = View.findTemplate(root) + 1;\n    }\n\n    /**\n     * @param {Node} node\n     *\n     * @return {?ViewList}\n     */\n    static instanceOf(node) {\n        do {\n            const list = root_list.get(node);\n\n            if (list) return list;\n        } while ((node = node.parentNode));\n    }\n\n    /**\n     * @param {Number} [from=0] - View index\n     */\n    clear(from = 0) {\n        this.splice(from, Infinity).forEach(view => view.destroy());\n    }\n\n    set length(value) {\n        this.clear(value);\n    }\n\n    /**\n     * @type {Element}\n     */\n    get root() {\n        return list_root.get(this);\n    }\n\n    /**\n     * @type {String}\n     */\n    get name() {\n        return this.root.dataset.view;\n    }\n\n    /**\n     * @type {Object}\n     */\n    get data() {\n        return (this[template][1] || '')[this.name];\n    }\n\n    /**\n     * @return {String} HTML source\n     */\n    toString() {\n        return this.root.outerHTML.replace(/\\s+$/gm, '');\n    }\n\n    /**\n     * @return {Object[]} JSON data\n     */\n    valueOf() {\n        return Array.from(this, view => view.valueOf());\n    }\n\n    /**\n     * @param {Object}  item\n     * @param {?Number} index\n     *\n     * @return {View}\n     */\n    async insert(item, index) {\n        index = insertableIndexOf(this, index);\n\n        const view = new View(...this[template]),\n            { data } = this;\n\n        this.splice(index, 0, view);\n\n        await view.render(item);\n\n        if (data instanceof Array) data[index] = view.data;\n        else if (data) this[template][1][this.name] = view.data;\n\n        const { topNodes } = view;\n\n        insertTo(\n            this.root,\n            makeNode(topNodes),\n            topNodes.length * index + this[child_offset],\n            true\n        );\n\n        return view;\n    }\n\n    /**\n     * @param {Object[]} list\n     */\n    async render(list) {\n        this.clear(list.length);\n\n        for (let i = 0; list[i]; i++)\n            await (this[i] ? this[i].render(list[i]) : this.insert(list[i], i));\n    }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/source/view/ViewList.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 133,
+    "kind": "variable",
+    "name": "root_list",
+    "memberof": "source/view/ViewList.js",
+    "static": true,
+    "longname": "source/view/ViewList.js~root_list",
+    "access": "public",
+    "export": false,
+    "importPath": "dom-renderer/source/view/ViewList.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 134,
+    "kind": "class",
+    "name": "ViewList",
+    "memberof": "source/view/ViewList.js",
+    "static": true,
+    "longname": "source/view/ViewList.js~ViewList",
+    "access": "public",
+    "export": true,
+    "importPath": "dom-renderer/source/view/ViewList.js",
+    "importStyle": "ViewList",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "Array"
+    ]
+  },
+  {
+    "__docId__": 135,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 18,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Element"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "root",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "scope",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "injection",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 136,
+    "kind": "member",
+    "name": "[template]",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#[template]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 137,
+    "kind": "member",
+    "name": "[child_offset]",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#[child_offset]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 138,
+    "kind": "method",
+    "name": "instanceOf",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "source/view/ViewList.js~ViewList.instanceOf",
+    "access": "public",
+    "description": "",
+    "lineNumber": 40,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "node",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": true,
+      "types": [
+        "ViewList"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 139,
+    "kind": "method",
+    "name": "clear",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#clear",
+    "access": "public",
+    "description": "",
+    "lineNumber": 51,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0",
+        "defaultRaw": 0,
+        "name": "from",
+        "description": "View index"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 140,
+    "kind": "set",
+    "name": "length",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#length",
+    "access": "public",
+    "description": null,
+    "lineNumber": 55,
+    "undocument": true
+  },
+  {
+    "__docId__": 141,
+    "kind": "get",
+    "name": "root",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#root",
+    "access": "public",
+    "description": "",
+    "lineNumber": 62,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Element"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 142,
+    "kind": "get",
+    "name": "name",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#name",
+    "access": "public",
+    "description": "",
+    "lineNumber": 69,
+    "type": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 143,
+    "kind": "get",
+    "name": "data",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#data",
+    "access": "public",
+    "description": "",
+    "lineNumber": 76,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 144,
+    "kind": "method",
+    "name": "toString",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#toString",
+    "access": "public",
+    "description": "",
+    "lineNumber": 83,
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": "HTML source"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 145,
+    "kind": "method",
+    "name": "valueOf",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#valueOf",
+    "access": "public",
+    "description": "",
+    "lineNumber": 90,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object[]"
+      ],
+      "spread": false,
+      "description": "JSON data"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 146,
+    "kind": "method",
+    "name": "insert",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#insert",
+    "access": "public",
+    "description": "",
+    "lineNumber": 100,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "item",
+        "description": ""
+      },
+      {
+        "nullable": true,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "index",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "View"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 147,
+    "kind": "method",
+    "name": "render",
+    "memberof": "source/view/ViewList.js~ViewList",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "source/view/ViewList.js~ViewList#render",
+    "access": "public",
+    "description": "",
+    "lineNumber": 128,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "list",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "# DOM Renderer\n\n**Template engine** based on **HTML 5**, **ECMAScript 6** & **MVVM**\n\n[![NPM Dependency](https://david-dm.org/EasyWebApp/DOM-Renderer.svg)](https://david-dm.org/EasyWebApp/DOM-Renderer)\n[![Build Status](https://travis-ci.com/EasyWebApp/DOM-Renderer.svg?branch=master)](https://travis-ci.com/EasyWebApp/DOM-Renderer)\n[![](https://data.jsdelivr.com/v1/package/npm/dom-renderer/badge?style=rounded)](https://www.jsdelivr.com/package/npm/dom-renderer)\n\n[![NPM](https://nodei.co/npm/dom-renderer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/dom-renderer/)\n\n## Data binding\n\n[`source/index.json`](https://github.com/EasyWebApp/DOM-Renderer/blob/master/test/source/index.json)\n\n```JSON\n{\n    \"name\":     \"TechQuery\",\n    \"profile\":  {\n        \"URL\":    \"https://tech-query.me/\",\n        \"title\":  \"Web/JavaScript full-stack engineer\"\n    },\n    \"job\":      [\n        { \"title\": \"freeCodeCamp\" },\n        { \"title\": \"MVP\" },\n        { \"title\": \"KaiYuanShe\" }\n    ]\n}\n```\n\n`source/index.html` [**Template syntax**](https://web-cell.dev/DOM-Renderer/manual/Template.html)\n\n```HTML\n<template>\n    <h1 hidden=\"${! view.name}\">\n        Hello, ${view.name} !\n    </h1>\n\n    <ul data-view=\"profile\" hidden=\"${! view.name}\">\n        <template>\n            <li title=\"${scope.name}\">\n                ${view.URL}\n            </li>\n            <li>${view.title}</li>\n        </template>\n    </ul>\n\n    <ol data-view=\"job\" hidden=\"${! view.name}\">\n        <template>\n            <li>${view.title}</li>\n        </template>\n    </ol>\n\n    <input type=\"text\" name=\"name\" placeholder=\"Switch account\">\n</template>\n```\n\n`source/index.js`\n\n```JavaScript\nimport View, { parseDOM } from 'dom-renderer';\n\nimport template from './index.html';\nimport data from './index.json';\n\nconst view = new View( View.getTemplate( parseDOM( template ) ) );\n\nawait view.render( data );\n\nconsole.log(view + '');\n```\n\n**Console output** (formatted)\n\n```HTML\n<h1>Hello, TechQuery !</h1>\n\n<ul data-view=\"profile\">\n    <template>\n        <li title=\"${scope.name}\">\n            ${view.URL}\n        </li>\n        <li>${view.title}</li>\n    </template>\n    <li title=\"TechQuery\">https://tech-query.me/</li>\n    <li>Web/JavaScript full-stack engineer</li>\n</ul>\n\n<ol data-view=\"job\">\n    <template>\n        <li>${view.title}</li>\n    </template>\n    <li>freeCodeCamp</li>\n    <li>MVP</li>\n    <li>KaiYuanShe</li>\n</ol>\n\n<input type=\"text\" name=\"name\" placeholder=\"Switch account\">\n```\n\n## Installation\n\n### Web browser\n\n```HTML\n<script src=\"https://cdn.jsdelivr.net/npm/@babel/polyfill/dist/polyfill.min.js\"></script>\n<script src=\"https://cdn.jsdelivr.net/npm/dom-renderer\"></script>\n```\n\n### Node.JS\n\n```Shell\nnpm install dom-renderer @babel/polyfill jsdom\n```\n\n```JavaScript\nimport '@babel/polyfill';\nimport 'dom-renderer/dist/polyfill';\nimport View from 'dom-renderer';\n```\n\n## Compile & bundle\n\n```Shell\nnpm install web-cell-cli @babel/preset-env -D\n```\n\n`package.json`\n\n```JSON\n{\n    \"directories\": {\n        \"lib\": \"source/\"\n    },\n    \"scripts\": {\n        \"build\": \"web-cell pack\"\n    },\n    \"babel\": {\n        \"presets\": [\n            \"@babel/preset-env\"\n        ]\n    }\n}\n```\n\n```Shell\nnpm run build\n```\n\n## Advanced usage\n\nFollow [the example above](#data-binding)\n\n### Updating\n\n```JavaScript\ndata.profile = null;  // Remove a Sub view\n\ndata.job.unshift({    // Reuse all Sub views of the list,\n    title:  'FYClub'  // then add a new Sub view at end\n});\n\nview.render( data );\n```\n\n### Getter\n\n```JavaScript\nconsole.log( view.name );     // 'TechQuery'\n\nconsole.log( view.profile );  // View {}\n\nconsole.log( view.job );      // ViewList [View {}, View {}, View {}]\n```\n\n### Setter\n\n```JavaScript\nimport { nextTick } from 'dom-renderer';\n\ndocument.body.append(... view.topNodes);\n\nview.name = 'tech-query';\n\nawait nextTick();\n\nconsole.log( document.querySelector('h1').textContent );  // 'Hello, tech-query !'\n```\n\n### Inserting\n\n```javascript\nawait view.job.insert({ title: 'ThoughtWorks' });\n\nconsole.log(view.job + '');\n```\n\n**Console output** (formatted)\n\n```html\n<ol data-view=\"job\">\n    <template>\n        <li>${view.title}</li>\n    </template>\n    <li>FYClub</li>\n    <li>freeCodeCamp</li>\n    <li>MVP</li>\n    <li>KaiYuanShe</li>\n    <li>ThoughtWorks</li>\n</ol>\n```\n\n### Re-parsing\n\n```javascript\nconst textNode = document.createTextNode('${view.test}');\n\nview.parse(textNode);\n\nawait view.render({ test: 'example' });\n\ndocument.body.append(textNode);\n\nconsole.log(textNode.nodeValue); // 'example'\n```\n\n## Developer manual\n\nhttps://web-cell.dev/DOM-Renderer/manual/\n\n## Typical cases\n\n1.  [WebCell](https://web-cell.dev/)\n",
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/ReadMe.md",
+    "name": "ReadMe.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n    \"name\": \"dom-renderer\",\n    \"version\": \"1.0.3\",\n    \"description\": \"Template engine based on HTML 5, ECMAScript 6 & MVVM\",\n    \"keywords\": [\n        \"template\",\n        \"html\",\n        \"ecmascript\",\n        \"render\",\n        \"mvvm\"\n    ],\n    \"license\": \"LGPL-3.0\",\n    \"author\": \"shiy2008@gmail.com\",\n    \"homepage\": \"https://web-cell.dev/DOM-Renderer/\",\n    \"repository\": {\n        \"type\": \"git\",\n        \"url\": \"git+https://github.com/EasyWebApp/DOM-Renderer.git\"\n    },\n    \"bugs\": {\n        \"url\": \"https://github.com/EasyWebApp/DOM-Renderer/issues\"\n    },\n    \"module\": \"source/index.js\",\n    \"main\": \"dist/dom-renderer.js\",\n    \"browser\": \"dist/dom-renderer.min.js\",\n    \"directories\": {\n        \"lib\": \"source\",\n        \"test\": \"test\"\n    },\n    \"scripts\": {\n        \"lint\": \"lint-staged\",\n        \"pack\": \"cross-env NODE_ENV=pack  amd-bundle source/index dist/dom-renderer -m\",\n        \"patch\": \"babel source/DOM/polyfill.js -o dist/polyfill.js\",\n        \"build\": \"npm run lint  &&  npm run pack  &&  npm run patch\",\n        \"debug\": \"npm run pack  &&  mocha --inspect-brk --no-timeouts\",\n        \"test\": \"npm run build  &&  mocha --exit  &&  esdoc\",\n        \"prepublishOnly\": \"npm test\",\n        \"help\": \"esdoc  &&  open-cli docs/index.html\"\n    },\n    \"lint-staged\": {\n        \"*.{html,md,css,less,json,yml}\": [\n            \"prettier --write\",\n            \"git add\"\n        ],\n        \"*.js\": [\n            \"prettier --write\",\n            \"eslint --fix\",\n            \"git add\"\n        ]\n    },\n    \"husky\": {\n        \"hooks\": {\n            \"pre-commit\": \"npm run lint\",\n            \"pre-push\": \"npm test\"\n        }\n    },\n    \"peerDependencies\": {\n        \"@babel/polyfill\": \"^7.6.0\"\n    },\n    \"devDependencies\": {\n        \"@babel/cli\": \"^7.6.0\",\n        \"@babel/polyfill\": \"^7.6.0\",\n        \"@babel/preset-env\": \"^7.6.0\",\n        \"@babel/register\": \"^7.6.0\",\n        \"amd-bundle\": \"^1.7.8\",\n        \"babel-plugin-inline-import\": \"^3.0.0\",\n        \"cross-env\": \"^5.2.1\",\n        \"esdoc\": \"^1.1.0\",\n        \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n        \"esdoc-external-webapi-plugin\": \"^1.0.0\",\n        \"esdoc-standard-plugin\": \"^1.0.0\",\n        \"eslint\": \"^6.4.0\",\n        \"husky\": \"^3.0.5\",\n        \"jsdom\": \"^15.1.1\",\n        \"lint-staged\": \"^9.2.5\",\n        \"mocha\": \"^6.2.0\",\n        \"open-cli\": \"^5.0.0\",\n        \"prettier\": \"^1.18.2\",\n        \"should\": \"^13.2.3\",\n        \"should-sinon\": \"0.0.6\",\n        \"sinon\": \"^7.4.2\"\n    },\n    \"prettier\": {\n        \"tabWidth\": 4,\n        \"singleQuote\": true\n    }\n}\n",
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/manual/Template.md",
+    "name": "./manual/Template.md",
+    "content": "# Template syntax\n\nSource code of **DOM-Renderer** templates is legal [HTML 5 markups][1] with legal [ECMAScript 6 template literals][2] in it.\n\n## Typical example\n\n```HTML\n<template>\n    <h1 hidden=\"${! view.name}\">\n        Hello, ${view.name} !\n    </h1>\n\n    <ul data-view=\"profile\">\n        <template>\n            <li title=\"${scope.name}\">\n                ${view.URL}\n            </li>\n            <li>${view.title}</li>\n        </template>\n    </ul>\n\n    <ol data-view=\"job\">\n        <template>\n            <li>${view.title}</li>\n        </template>\n    </ol>\n\n    <input type=\"text\" name=\"name\" placeholder=\"Switch account\">\n</template>\n```\n\n|            Code            |       Type       |                                      Explanation                                      |\n| :------------------------: | :--------------: | :-----------------------------------------------------------------------------------: |\n|           `this`           |  Local variable  |              The [Element][3] which current Template literals located at              |\n|           `view`           |  Local variable  |      **Data object** of the [View][4] which current Template literals located at      |\n|          `scope`           |  Local variable  |       Data object of the parent View which current Template literals located at       |\n|     `\"${! view.name}\"`     | Template literal |         Evaluated value of Template literals supports all kinds of Data types         |\n| `hidden=\"${! view.name}\"`  |  HTML attribute  |                 HTML Boolean attributes are treated as DOM Properties                 |\n|     `data-view=\"job\"`      |  HTML attribute  | Attribute value is a key in current View data, Object or Array will map to Sub views  |\n| `<template>...</template>` |     HTML tag     | A `<template />` may map to a View or Sub views, `<!-- -->` is a Compatibility option |\n|   `<input name=\"name\">`    |     HTML tag     |        The same-name value of Data object will be updated by User's inputting         |\n\n[1]: https://developer.mozilla.org/en-US/docs/Web/HTML\n[2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals\n[3]: https://developer.mozilla.org/en-US/docs/Web/API/element\n[4]: https://web-cell.dev/DOM-Renderer/class/source/view/View.js~View.html\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/manual/Render-existed-DOM.md",
+    "name": "./manual/Render-existed-DOM.md",
+    "content": "# Render existed DOM trees\n\n`index.html`\n\n```html\n<body>\n    <ol>\n        <template>\n            <li>${view.name}</li>\n            <li>${view.URL}</li>\n        </template>\n    </ol>\n    <ul>\n        <template>\n            <li>${view.name}</li>\n        </template>\n    </ul>\n\n    <script>\n        const { ViewList } = self['dom-renderer'],\n            views = document.body.children;\n\n        const single = new ViewList(views[0]),\n            multiple = new ViewList(views[1]);\n\n        await single.render([\n            {\n                name: 'TechQuery',\n                URL: 'https://tech-query.me/'\n            }\n        ]);\n\n        await multiple.render([\n            { name: 'freeCodeCamp' },\n            { name: 'KaiYuanShe' }\n        ]);\n    </script>\n</body>\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "__docId__": 148,
+    "kind": "testFile",
+    "name": "test/Model.spec.js",
+    "content": "import { spy } from 'sinon';\n\nimport Model from '../source/view/Model';\n\nimport { nextTick } from '../source/DOM/timer';\n\nconst onCommit = spy();\n\nconst model = new Model({ test: 1 }, onCommit);\n\n/**\n * @test {Model}\n */\ndescribe('Data model', () => {\n    /**\n     * @test {Model#constructor}\n     * @test {Model#valueOf}\n     */\n    it('Scope', () => {\n        model.data.test.should.be.equal(1);\n\n        model.valueOf().should.be.empty();\n    });\n\n    /**\n     * @test {Model#patch}\n     */\n    it('Full update', () => {\n        const data = { example: 2, sample: { a: 1, b: 2 } };\n\n        const update = model.patch(data);\n\n        update.test.should.be.equal(1);\n        update.example.should.be.equal(2);\n        update.sample.should.match(data.sample);\n    });\n\n    /**\n     * @test {Model#patch}\n     */\n    it('Incremental update', () => {\n        model\n            .patch({ sample: null })\n            .should.match({ example: 2, sample: null });\n    });\n\n    /**\n     * @test {Model#watch}\n     * @test {Model#commit}\n     */\n    it('Async update', async () => {\n        ['test', 'example', 'sample'].forEach(key => model.watch(key));\n\n        model.commit('test', 2);\n        model.example = 3;\n\n        await nextTick();\n\n        model.sample = { a: 1 };\n\n        onCommit.should.be.calledOnce();\n        onCommit.should.be.calledWith({ test: 2, example: 3 });\n\n        await nextTick();\n\n        onCommit.should.be.calledTwice();\n        onCommit.should.be.calledWith({ sample: { a: 1 } });\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/Model.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 149,
+    "kind": "test",
+    "name": "describe0",
+    "testId": 0,
+    "memberof": "test/Model.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/Model.spec.js~describe0",
+    "access": null,
+    "description": "Data model",
+    "lineNumber": 14,
+    "testTargets": [
+      "Model"
+    ]
+  },
+  {
+    "__docId__": 150,
+    "kind": "test",
+    "name": "it1",
+    "testId": 1,
+    "memberof": "test/Model.spec.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Model.spec.js~describe0.it1",
+    "access": null,
+    "description": "Scope",
+    "lineNumber": 19,
+    "testTargets": [
+      "Model#constructor",
+      "Model#valueOf"
+    ]
+  },
+  {
+    "__docId__": 151,
+    "kind": "test",
+    "name": "it2",
+    "testId": 2,
+    "memberof": "test/Model.spec.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Model.spec.js~describe0.it2",
+    "access": null,
+    "description": "Full update",
+    "lineNumber": 28,
+    "testTargets": [
+      "Model#patch"
+    ]
+  },
+  {
+    "__docId__": 152,
+    "kind": "test",
+    "name": "it3",
+    "testId": 3,
+    "memberof": "test/Model.spec.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Model.spec.js~describe0.it3",
+    "access": null,
+    "description": "Incremental update",
+    "lineNumber": 41,
+    "testTargets": [
+      "Model#patch"
+    ]
+  },
+  {
+    "__docId__": 153,
+    "kind": "test",
+    "name": "it4",
+    "testId": 4,
+    "memberof": "test/Model.spec.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Model.spec.js~describe0.it4",
+    "access": null,
+    "description": "Async update",
+    "lineNumber": 51,
+    "testTargets": [
+      "Model#watch",
+      "Model#commit"
+    ]
+  },
+  {
+    "__docId__": 154,
+    "kind": "testFile",
+    "name": "test/Template.spec.js",
+    "content": "import { spy } from 'sinon';\n\nimport Template from '../source/view/Template';\n\nvar onChange = spy(),\n    template;\n\n/**\n * @test {Template}\n */\ndescribe('Template evaluator', () => {\n    /**\n     * @test {Template#evaluatorOf}\n     * @test {Template#keysOf}\n     */\n    it('Parsing', () => {\n        template = new Template(\n            'test${this.test},example${view.example}',\n            ['view'],\n            onChange\n        );\n\n        template.should.have.length(2);\n\n        template[0].should.be.instanceOf(Function);\n\n        template.keysOf().should.be.eql(['test', 'example']);\n\n        onChange.should.be.calledWith('test,example', undefined);\n    });\n\n    /**\n     * @test {Template#reset}\n     */\n    it('No changing', () => {\n        template.reset();\n\n        onChange.should.be.calledOnce();\n    });\n\n    /**\n     * @test {Template#evaluate}\n     */\n    it('Evaluating', () => {\n        template.valueOf().should.be.equal('test,example');\n\n        template\n            .evaluate({ test: 1 }, { example: 2 })\n            .should.be.equal('test1,example2');\n\n        onChange.should.be.calledWith('test1,example2', 'test,example');\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/Template.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 155,
+    "kind": "test",
+    "name": "describe5",
+    "testId": 5,
+    "memberof": "test/Template.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/Template.spec.js~describe5",
+    "access": null,
+    "description": "Template evaluator",
+    "lineNumber": 11,
+    "testTargets": [
+      "Template"
+    ]
+  },
+  {
+    "__docId__": 156,
+    "kind": "test",
+    "name": "it6",
+    "testId": 6,
+    "memberof": "test/Template.spec.js~describe5",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Template.spec.js~describe5.it6",
+    "access": null,
+    "description": "Parsing",
+    "lineNumber": 16,
+    "testTargets": [
+      "Template#evaluatorOf",
+      "Template#keysOf"
+    ]
+  },
+  {
+    "__docId__": 157,
+    "kind": "test",
+    "name": "it7",
+    "testId": 7,
+    "memberof": "test/Template.spec.js~describe5",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Template.spec.js~describe5.it7",
+    "access": null,
+    "description": "No changing",
+    "lineNumber": 35,
+    "testTargets": [
+      "Template#reset"
+    ]
+  },
+  {
+    "__docId__": 158,
+    "kind": "test",
+    "name": "it8",
+    "testId": 8,
+    "memberof": "test/Template.spec.js~describe5",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/Template.spec.js~describe5.it8",
+    "access": null,
+    "description": "Evaluating",
+    "lineNumber": 44,
+    "testTargets": [
+      "Template#evaluate"
+    ]
+  },
+  {
+    "__docId__": 159,
+    "kind": "testFile",
+    "name": "test/View.spec.js",
+    "content": "import { typeIn } from '../source/DOM/polyfill';\n\nimport { parseDOM } from '../source/DOM/parser';\nimport { delay } from '../source/DOM/timer';\n\nimport View from '../source/view/View';\nimport Template from '../source/view/Template';\n\nimport template from './source/index.html';\nimport data from './source/index.json';\n\nimport { format } from 'prettier';\n\nvar view = parseDOM(template).firstElementChild.innerHTML.trim();\n\n/**\n * @test {View}\n */\ndescribe('DOM View', () => {\n    /**\n     * @test {View#parse}\n     * @test {View#addNode}\n     */\n    it('Parsing', () => {\n        view = new View(view);\n\n        view.topNodes.should.have.length(7);\n\n        Array.from(\n            view.keys(),\n            template => template.constructor.name\n        ).should.match([\n            'Template',\n            'Template',\n            'Template',\n            'ViewList',\n            'Template',\n            'ViewList'\n        ]);\n\n        view.should.have.properties('profile', 'job');\n\n        view.listenKeys.should.be.eql(['name']);\n    });\n\n    /**\n     * @test {View#render}\n     */\n    it('Rendering', async () => {\n        await view.render(JSON.parse(data));\n\n        view.profile.should.be.instanceOf(View);\n        view.profile.data.should.be.equal(view.data.profile);\n\n        view.job.should.have.length(3);\n        view.job[0].should.be.instanceOf(View);\n        view.job[0].data.should.be.equal(view.data.job[0]);\n\n        format(view + '', {\n            parser: 'html',\n            tabWidth: 4\n        }).should.be.equal(`<h1>\n    Hello, TechQuery !\n</h1>\n<ul data-view=\"profile\">\n    <template>\n        <li title=\"\\${scope.name}\">\n            \\${view.URL}\n        </li>\n        <li>\\${view.title}</li>\n    </template>\n    <li title=\"TechQuery\">\n        https://tech-query.me/\n    </li>\n    <li>Web/JavaScript full-stack engineer</li>\n</ul>\n<ol data-view=\"job\">\n    <template>\n        <li>\\${view.title}</li>\n    </template>\n    <li>freeCodeCamp</li>\n    <li>MVP</li>\n    <li>KaiYuanShe</li>\n</ol>\n<textarea name=\"name\" placeholder=\"Switch account\"></textarea>\n`);\n    });\n\n    function getFirsts() {\n        return view.topNodes\n            .map(node => {\n                if (node.nodeType === 1)\n                    return [].find.call(\n                        node.childNodes,\n                        ({ innerHTML, tagName, nodeValue }) =>\n                            innerHTML\n                                ? tagName !== 'TEMPLATE'\n                                : nodeValue.trim()\n                    );\n            })\n            .filter(Boolean);\n    }\n\n    /**\n     * @test {ViewList#render}\n     */\n    it('Updating', async () => {\n        const first = getFirsts(),\n            _data_ = JSON.parse(data);\n\n        _data_.name = 'tech-query';\n        delete _data_.profile;\n        _data_.job = null;\n\n        await view.render(_data_);\n\n        const now = getFirsts();\n\n        now[0].should.not.be.equal(first[0]);\n        now[1].should.be.equal(first[1]);\n        now.should.have.length(2);\n\n        format(view + '', {\n            parser: 'html',\n            tabWidth: 4\n        }).should.be.equal(`<h1>\n    Hello, tech-query !\n</h1>\n<ul data-view=\"profile\">\n    <template>\n        <li title=\"\\${scope.name}\">\n            \\${view.URL}\n        </li>\n        <li>\\${view.title}</li>\n    </template>\n    <li title=\"TechQuery\">\n        https://tech-query.me/\n    </li>\n    <li>Web/JavaScript full-stack engineer</li>\n</ul>\n<ol data-view=\"job\">\n    <template>\n        <li>\\${view.title}</li>\n    </template>\n</ol>\n<textarea name=\"name\" placeholder=\"Switch account\"></textarea>\n`);\n    });\n\n    /**\n     * @test {ViewList#render}\n     * @test {Model#commit}\n     */\n    it('Sub view reusing', async () => {\n        const _data_ = JSON.parse(data);\n\n        await view.render(_data_);\n\n        const first = getFirsts();\n\n        _data_.job.unshift({ title: 'FYClub' });\n\n        await view.commit('job', _data_.job);\n\n        getFirsts().should.match(first);\n        (view.job[0] + '').trim().should.be.equal('<li>FYClub</li>');\n    });\n\n    /**\n     * @test {View.instanceOf}\n     */\n    it('Get the View of a Node', () => {\n        View.instanceOf(getFirsts()[2].firstChild).should.be.equal(view.job[0]);\n    });\n\n    /**\n     * @test {View#listen}\n     */\n    it('Auto update from Input fields', async () => {\n        const element = view.topNodes.filter(node => node.nodeType === 1);\n\n        await typeIn(element[3], 'test-example');\n\n        await delay(0.3);\n\n        element[0].textContent.trim().should.be.equal('Hello, test-example !');\n    });\n\n    /**\n     * @test {View#parse}\n     * @test {View#listenKeys}\n     */\n    it('re-parses a DOM tree', () => {\n        const new_nodes = parseDOM(`\n\\${view.name}\n<input name=\"test\">`).childNodes;\n\n        for (let node of [...new_nodes]) node.remove(), view.parse(node);\n\n        view.topNodes.should.have.length(9);\n\n        [...view.keys()][6].should.be.instanceOf(Template);\n\n        view.listenKeys.should.be.eql(['name', 'test']);\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/View.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 160,
+    "kind": "test",
+    "name": "describe9",
+    "testId": 9,
+    "memberof": "test/View.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/View.spec.js~describe9",
+    "access": null,
+    "description": "DOM View",
+    "lineNumber": 19,
+    "testTargets": [
+      "View"
+    ]
+  },
+  {
+    "__docId__": 161,
+    "kind": "test",
+    "name": "it10",
+    "testId": 10,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it10",
+    "access": null,
+    "description": "Parsing",
+    "lineNumber": 24,
+    "testTargets": [
+      "View#parse",
+      "View#addNode"
+    ]
+  },
+  {
+    "__docId__": 162,
+    "kind": "test",
+    "name": "it11",
+    "testId": 11,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it11",
+    "access": null,
+    "description": "Rendering",
+    "lineNumber": 49,
+    "testTargets": [
+      "View#render"
+    ]
+  },
+  {
+    "__docId__": 163,
+    "kind": "test",
+    "name": "it12",
+    "testId": 12,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it12",
+    "access": null,
+    "description": "Updating",
+    "lineNumber": 107,
+    "testTargets": [
+      "ViewList#render"
+    ]
+  },
+  {
+    "__docId__": 164,
+    "kind": "test",
+    "name": "it13",
+    "testId": 13,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it13",
+    "access": null,
+    "description": "Sub view reusing",
+    "lineNumber": 154,
+    "testTargets": [
+      "ViewList#render",
+      "Model#commit"
+    ]
+  },
+  {
+    "__docId__": 165,
+    "kind": "test",
+    "name": "it14",
+    "testId": 14,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it14",
+    "access": null,
+    "description": "Get the View of a Node",
+    "lineNumber": 172,
+    "testTargets": [
+      "View.instanceOf"
+    ]
+  },
+  {
+    "__docId__": 166,
+    "kind": "test",
+    "name": "it15",
+    "testId": 15,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it15",
+    "access": null,
+    "description": "Auto update from Input fields",
+    "lineNumber": 179,
+    "testTargets": [
+      "View#listen"
+    ]
+  },
+  {
+    "__docId__": 167,
+    "kind": "test",
+    "name": "it16",
+    "testId": 16,
+    "memberof": "test/View.spec.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/View.spec.js~describe9.it16",
+    "access": null,
+    "description": "re-parses a DOM tree",
+    "lineNumber": 193,
+    "testTargets": [
+      "View#parse",
+      "View#listenKeys"
+    ]
+  },
+  {
+    "__docId__": 168,
+    "kind": "testFile",
+    "name": "test/ViewList.spec.js",
+    "content": "import { parseDOM } from '../source/DOM/parser';\n\nimport ViewList from '../source/view/ViewList';\n\nimport View from '../source/view/View';\n\nconst root = parseDOM(`<ul data-view=\"browser\">\n    <template>\n        <li>\\${view.name}</li>\n    </template>\n</ul>`).firstChild,\n    data = [\n        { name: 'Chrome' },\n        { name: 'Firefox' },\n        { name: 'Opera' },\n        { name: 'Edge' },\n        { name: 'Safari' }\n    ];\n\n/**\n * @test {ViewList}\n */\ndescribe('View list', () => {\n    var list;\n    /**\n     * @test {ViewList#constructor}\n     */\n    it('creates a View list', () => {\n        list = new ViewList(root, { browser: [...data] });\n\n        list.should.have.length(0);\n        root.childNodes.should.have.length(3);\n    });\n\n    /**\n     * @test {ViewList#insert}\n     */\n    it('pushes an item', async () => {\n        await list.insert(data[0]);\n\n        list.should.have.length(1);\n        root.childNodes.should.have.length(6);\n\n        list[0].should.be.instanceOf(View);\n        (list[0] + '').trim().should.be.equal('<li>Chrome</li>');\n        list.data[0].should.be.equal(list[0].data);\n    });\n\n    /**\n     * @test {ViewList#insert}\n     */\n    it('pushes another item', async () => {\n        await list.insert(data[2]);\n\n        list.should.have.length(2);\n        root.childNodes.should.have.length(9);\n\n        list[1].should.be.instanceOf(View);\n        (list[1] + '').trim().should.be.equal('<li>Opera</li>');\n        list.data[1].should.be.equal(list[1].data);\n    });\n\n    /**\n     * @test {ViewList#insert}\n     */\n    it('inserts an item', async () => {\n        await list.insert(data[1], 1);\n\n        list.should.have.length(3);\n        root.childNodes.should.have.length(12);\n\n        list[1].should.be.instanceOf(View);\n        (list[1] + '').trim().should.be.equal('<li>Firefox</li>');\n        list.data[1].should.be.equal(list[1].data);\n    });\n\n    /**\n     * @test {ViewList#toString()}\n     * @test {ViewList#valueOf()}\n     */\n    it('generates HTML source & JSON data', () => {\n        (list + '').should.be.equal(`<ul data-view=\"browser\">\n    <template>\n        <li>\\${view.name}</li>\n    </template>\n        <li>Chrome</li>\n        <li>Firefox</li>\n        <li>Opera</li>\n</ul>`);\n\n        list.valueOf().should.be.eql(data.slice(0, -2));\n    });\n\n    /**\n     * @test {ViewList#clear}\n     * @test {ViewList#render}\n     */\n    it('renders several items', async () => {\n        await list.render(data.slice(-2));\n\n        list.should.have.length(2);\n        root.childNodes.should.have.length(9);\n\n        (list + '').should.be.equal(`<ul data-view=\"browser\">\n    <template>\n        <li>\\${view.name}</li>\n    </template>\n        <li>Edge</li>\n        <li>Safari</li>\n</ul>`);\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/ViewList.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 169,
+    "kind": "test",
+    "name": "describe17",
+    "testId": 17,
+    "memberof": "test/ViewList.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17",
+    "access": null,
+    "description": "View list",
+    "lineNumber": 23,
+    "testTargets": [
+      "ViewList"
+    ]
+  },
+  {
+    "__docId__": 170,
+    "kind": "test",
+    "name": "it18",
+    "testId": 18,
+    "memberof": "test/ViewList.spec.js~describe17",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17.it18",
+    "access": null,
+    "description": "creates a View list",
+    "lineNumber": 28,
+    "testTargets": [
+      "ViewList#constructor"
+    ]
+  },
+  {
+    "__docId__": 171,
+    "kind": "test",
+    "name": "it19",
+    "testId": 19,
+    "memberof": "test/ViewList.spec.js~describe17",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17.it19",
+    "access": null,
+    "description": "pushes an item",
+    "lineNumber": 38,
+    "testTargets": [
+      "ViewList#insert"
+    ]
+  },
+  {
+    "__docId__": 172,
+    "kind": "test",
+    "name": "it20",
+    "testId": 20,
+    "memberof": "test/ViewList.spec.js~describe17",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17.it20",
+    "access": null,
+    "description": "pushes another item",
+    "lineNumber": 52,
+    "testTargets": [
+      "ViewList#insert"
+    ]
+  },
+  {
+    "__docId__": 173,
+    "kind": "test",
+    "name": "it21",
+    "testId": 21,
+    "memberof": "test/ViewList.spec.js~describe17",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17.it21",
+    "access": null,
+    "description": "inserts an item",
+    "lineNumber": 66,
+    "testTargets": [
+      "ViewList#insert"
+    ]
+  },
+  {
+    "__docId__": 174,
+    "kind": "test",
+    "name": "it22",
+    "testId": 22,
+    "memberof": "test/ViewList.spec.js~describe17",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17.it22",
+    "access": null,
+    "description": "generates HTML source & JSON data",
+    "lineNumber": 81,
+    "testTargets": [
+      "ViewList#toString()",
+      "ViewList#valueOf()"
+    ]
+  },
+  {
+    "__docId__": 175,
+    "kind": "test",
+    "name": "it23",
+    "testId": 23,
+    "memberof": "test/ViewList.spec.js~describe17",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/ViewList.spec.js~describe17.it23",
+    "access": null,
+    "description": "renders several items",
+    "lineNumber": 98,
+    "testTargets": [
+      "ViewList#clear",
+      "ViewList#render"
+    ]
+  },
+  {
+    "__docId__": 176,
+    "kind": "testFile",
+    "name": "test/array.spec.js",
+    "content": "import { likeArray, insertableIndexOf } from '../source/object/array';\n\ndescribe('Array utility methods', () => {\n    /**\n     * @test {likeArray}\n     */\n    it('detects Array-like object', () => {\n        likeArray(false).should.be.false();\n        likeArray(null).should.be.false();\n        likeArray(undefined).should.be.false();\n        likeArray(NaN).should.be.false();\n        likeArray('').should.be.false();\n\n        likeArray([]).should.be.true();\n        likeArray({ length: 0 }).should.be.true();\n\n        likeArray(() => {}).should.be.false();\n        likeArray(document.createElement('form')).should.be.false();\n    });\n\n    /**\n     * @test {insertableIndexOf}\n     */\n    it('gets insertable index of an Array', () => {\n        const list = [1, 2, 3];\n\n        insertableIndexOf(list, 1).should.be.equal(1);\n\n        insertableIndexOf(list, 4).should.be.equal(3);\n\n        insertableIndexOf(list, -1).should.be.equal(2);\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/array.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 177,
+    "kind": "test",
+    "name": "describe24",
+    "testId": 24,
+    "memberof": "test/array.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/array.spec.js~describe24",
+    "access": null,
+    "description": "Array utility methods",
+    "lineNumber": 3
+  },
+  {
+    "__docId__": 178,
+    "kind": "test",
+    "name": "it25",
+    "testId": 25,
+    "memberof": "test/array.spec.js~describe24",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/array.spec.js~describe24.it25",
+    "access": null,
+    "description": "detects Array-like object",
+    "lineNumber": 7,
+    "testTargets": [
+      "likeArray"
+    ]
+  },
+  {
+    "__docId__": 179,
+    "kind": "test",
+    "name": "it26",
+    "testId": 26,
+    "memberof": "test/array.spec.js~describe24",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/array.spec.js~describe24.it26",
+    "access": null,
+    "description": "gets insertable index of an Array",
+    "lineNumber": 24,
+    "testTargets": [
+      "insertableIndexOf"
+    ]
+  },
+  {
+    "__docId__": 180,
+    "kind": "testFile",
+    "name": "test/manipulate.spec.js",
+    "content": "import { parseDOM } from '../source/DOM/parser';\n\nimport { indexOf, insertTo, valueOf } from '../source/DOM/manipulate';\n\nimport HTML from './source/form.html';\n\nconst form = parseDOM(HTML).firstChild;\n\ndescribe('DOM manipulation', () => {\n    /**\n     * @test {indexOf}\n     */\n    it('gets the index of DOM nodes', () => {\n        indexOf(form.firstElementChild).should.be.equal(0);\n\n        indexOf(form.firstElementChild, true).should.be.equal(1);\n    });\n\n    /**\n     * @test {insertTo}\n     */\n    it('inserts Nodes to an Element by index', () => {\n        insertTo(form, 'test', -2, true);\n\n        insertTo(form, 'test', Infinity, true);\n\n        form.outerHTML.should.be.equal(`<form>\n    <input type=\"radio\" name=\"radio\" value=\"r1\" checked=\"\">\n    <input type=\"radio\" name=\"radio\" value=\"r2\">\n\n    <input type=\"checkbox\" name=\"check\" value=\"c1\" checked=\"\">\n    <input type=\"checkbox\" name=\"check\" value=\"c2\">\n    <input type=\"checkbox\" name=\"check\" value=\"c3\" checked=\"\">\n\n    <select name=\"select\" multiple=\"\">\n        <option>s1</option>\n        <option selected=\"\">s2</option>\n        <option selected=\"\">s3</option>\n    </select>\n\n    test<textarea name=\"text\">example</textarea>\ntest</form>`);\n    });\n\n    /**\n     * @test {valueOf}\n     */\n    it('gets values of Form fields', () => {\n        const { radio, check, select, text } = form.elements;\n\n        valueOf(radio).should.be.equal('r1');\n        valueOf(check).should.be.eql(['c1', 'c3']);\n        valueOf(select).should.be.eql(['s2', 's3']);\n        valueOf(text).should.be.equal('example');\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/manipulate.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 181,
+    "kind": "test",
+    "name": "describe27",
+    "testId": 27,
+    "memberof": "test/manipulate.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/manipulate.spec.js~describe27",
+    "access": null,
+    "description": "DOM manipulation",
+    "lineNumber": 9
+  },
+  {
+    "__docId__": 182,
+    "kind": "test",
+    "name": "it28",
+    "testId": 28,
+    "memberof": "test/manipulate.spec.js~describe27",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/manipulate.spec.js~describe27.it28",
+    "access": null,
+    "description": "gets the index of DOM nodes",
+    "lineNumber": 13,
+    "testTargets": [
+      "indexOf"
+    ]
+  },
+  {
+    "__docId__": 183,
+    "kind": "test",
+    "name": "it29",
+    "testId": 29,
+    "memberof": "test/manipulate.spec.js~describe27",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/manipulate.spec.js~describe27.it29",
+    "access": null,
+    "description": "inserts Nodes to an Element by index",
+    "lineNumber": 22,
+    "testTargets": [
+      "insertTo"
+    ]
+  },
+  {
+    "__docId__": 184,
+    "kind": "test",
+    "name": "it30",
+    "testId": 30,
+    "memberof": "test/manipulate.spec.js~describe27",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/manipulate.spec.js~describe27.it30",
+    "access": null,
+    "description": "gets values of Form fields",
+    "lineNumber": 48,
+    "testTargets": [
+      "valueOf"
+    ]
+  },
+  {
+    "__docId__": 185,
+    "kind": "testFile",
+    "name": "test/parser.spec.js",
+    "content": "import { parseDOM, walkDOM, scanDOM, stringifyDOM } from '../source/DOM/parser';\n\nimport Template from '../source/view/Template';\n\nimport template from './source/index.html';\n\nvar fragment;\n\ndescribe('DOM parser', () => {\n    /**\n     * @test {parseDOM}\n     */\n    it('DOM parsing', () => {\n        fragment = parseDOM(template);\n\n        fragment.should.be.instanceOf(DocumentFragment);\n\n        fragment.firstElementChild.tagName.should.be.equal('TEMPLATE');\n\n        fragment = fragment.firstElementChild.content;\n    });\n\n    /**\n     * @test {stringifyDOM}\n     */\n    it('DOM serialization', () => {\n        stringifyDOM(fragment.childNodes).should.be.equal(\n            /<template>([\\s\\S]+)<\\/template>/.exec(template)[1]\n        );\n    });\n\n    /**\n     * @test {walkDOM}\n     */\n    it('DOM walking', () => {\n        Array.from(\n            walkDOM(fragment, null, true),\n            ({ nodeValue, nodeName }) => (nodeValue || '').trim() || nodeName\n        ).should.be.eql([\n            '#document-fragment',\n            '#text',\n            'H1',\n            'Hello, ${view.name} !',\n            '#text',\n            'UL',\n            '#text',\n            'TEMPLATE',\n            '#document-fragment',\n            '#text',\n            'LI',\n            '${view.URL}',\n            '#text',\n            'LI',\n            '${view.title}',\n            '#text',\n            '#text',\n            '#text',\n            'OL',\n            '#text',\n            'TEMPLATE',\n            '#document-fragment',\n            '#text',\n            'LI',\n            '${view.title}',\n            '#text',\n            '#text',\n            '#text',\n            'TEXTAREA',\n            '#text'\n        ]);\n    });\n\n    /**\n     * @test {scanDOM}\n     */\n    it('Template scanning', () => {\n        const key_node = [];\n\n        scanDOM(fragment, Template.Expression, {\n            attribute(node) {\n                key_node.push(node.value);\n            },\n            text(node) {\n                key_node.push(node.nodeValue.trim());\n            },\n            ['[data-view]'](node) {\n                key_node.push(node.tagName);\n\n                return false;\n            }\n        });\n\n        key_node.should.be.eql([\n            '${! view.name}',\n            'Hello, ${view.name} !',\n            '${! view.name}',\n            'UL',\n            '${! view.name}',\n            'OL'\n        ]);\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/parser.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 186,
+    "kind": "test",
+    "name": "describe31",
+    "testId": 31,
+    "memberof": "test/parser.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/parser.spec.js~describe31",
+    "access": null,
+    "description": "DOM parser",
+    "lineNumber": 9
+  },
+  {
+    "__docId__": 187,
+    "kind": "test",
+    "name": "it32",
+    "testId": 32,
+    "memberof": "test/parser.spec.js~describe31",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/parser.spec.js~describe31.it32",
+    "access": null,
+    "description": "DOM parsing",
+    "lineNumber": 13,
+    "testTargets": [
+      "parseDOM"
+    ]
+  },
+  {
+    "__docId__": 188,
+    "kind": "test",
+    "name": "it33",
+    "testId": 33,
+    "memberof": "test/parser.spec.js~describe31",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/parser.spec.js~describe31.it33",
+    "access": null,
+    "description": "DOM serialization",
+    "lineNumber": 26,
+    "testTargets": [
+      "stringifyDOM"
+    ]
+  },
+  {
+    "__docId__": 189,
+    "kind": "test",
+    "name": "it34",
+    "testId": 34,
+    "memberof": "test/parser.spec.js~describe31",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/parser.spec.js~describe31.it34",
+    "access": null,
+    "description": "DOM walking",
+    "lineNumber": 35,
+    "testTargets": [
+      "walkDOM"
+    ]
+  },
+  {
+    "__docId__": 190,
+    "kind": "test",
+    "name": "it35",
+    "testId": 35,
+    "memberof": "test/parser.spec.js~describe31",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/parser.spec.js~describe31.it35",
+    "access": null,
+    "description": "Template scanning",
+    "lineNumber": 76,
+    "testTargets": [
+      "scanDOM"
+    ]
+  },
+  {
+    "__docId__": 191,
+    "kind": "testFile",
+    "name": "test/timer.spec.js",
+    "content": "import { spy } from 'sinon';\n\nimport { debounce, delay, throttle } from '../source';\n\ndescribe('DOM timer', () => {\n    /**\n     * @test {debounce}\n     */\n    it('Debounce', async () => {\n        const origin = spy();\n\n        const wrapped = debounce(origin);\n\n        for (let index of [1, 2, 3]) {\n            wrapped(index);\n            await delay(0.05);\n        }\n        await delay(0.2);\n\n        origin.should.be.calledOnce();\n        origin.should.be.calledWith(3);\n    });\n\n    /**\n     * @test {throttle}\n     */\n    it('Throttle', async () => {\n        const origin = spy(index => index),\n            result = [];\n\n        const wrapped = throttle(origin, 0.05);\n\n        for (let index of [1, 2, 3, 4]) {\n            result.push(wrapped(index));\n            await delay(0.025);\n        }\n\n        origin.should.be.calledTwice();\n        result.should.be.eql([1, 1, 3, 3]);\n    });\n});\n",
+    "static": true,
+    "longname": "/home/travis/build/EasyWebApp/DOM-Renderer/test/timer.spec.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 192,
+    "kind": "test",
+    "name": "describe36",
+    "testId": 36,
+    "memberof": "test/timer.spec.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/timer.spec.js~describe36",
+    "access": null,
+    "description": "DOM timer",
+    "lineNumber": 5
+  },
+  {
+    "__docId__": 193,
+    "kind": "test",
+    "name": "it37",
+    "testId": 37,
+    "memberof": "test/timer.spec.js~describe36",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/timer.spec.js~describe36.it37",
+    "access": null,
+    "description": "Debounce",
+    "lineNumber": 9,
+    "testTargets": [
+      "debounce"
+    ]
+  },
+  {
+    "__docId__": 194,
+    "kind": "test",
+    "name": "it38",
+    "testId": 38,
+    "memberof": "test/timer.spec.js~describe36",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/timer.spec.js~describe36.it38",
+    "access": null,
+    "description": "Throttle",
+    "lineNumber": 27,
+    "testTargets": [
+      "throttle"
+    ]
+  }
+]
